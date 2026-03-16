@@ -1,0 +1,501 @@
+order_id,order_date,ship_date,ship_mode,customer_id,customer_name,region,category,product_name,quantity,unit_price,discount_pct,revenue,discount_amt,net_revenue,payment_method,returned,rating,month,month_num,year,quarter,ship_days,is_returned
+10001,2023-05-23,2023-05-29,Standard,C108,Divya Joshi,Central,Sports,Resistance Bands,3,17.63,5,52.89,2.64,50.25,Net Banking,No,5,May,5,2023,2023Q2,6,0
+10002,2023-01-28,2023-02-02,Express,C120,Tanvi Choudhary,South,Electronics,Laptop,2,39.52,20,79.04,15.81,63.23,Net Banking,No,5,January,1,2023,2023Q1,5,0
+10003,2023-12-15,2023-12-18,Standard,C114,Riya Desai,North,Beauty,Sunscreen SPF50,1,59.52,0,59.52,0.0,59.52,Net Banking,No,3,December,12,2023,2023Q4,3,0
+10004,2024-04-15,2024-04-20,Standard,C102,Priya Patel,Central,Electronics,Noise Cancelling Headphones,5,156.36,5,781.8,39.09,742.71,Debit Card,No,4,April,4,2024,2024Q2,5,0
+10005,2023-02-16,2023-02-22,Standard,C103,Rohan Mehta,South,Toys & Games,Drawing Tablet,3,61.39,5,184.17,9.21,174.96,Credit Card,No,3,February,2,2023,2023Q1,6,0
+10006,2023-12-30,2024-01-01,Same Day,C112,Neha Tiwari,South,Books,SQL for Beginners,3,38.14,0,114.42,0.0,114.42,Cash on Delivery,No,1,December,12,2023,2023Q4,2,0
+10007,2023-08-13,2023-08-19,Standard,C118,Shreya Malhotra,North,Sports,Jump Rope,4,32.16,5,128.64,6.43,122.21,Debit Card,No,1,August,8,2023,2023Q3,6,0
+10008,2024-11-02,2024-11-06,Standard,C107,Karan Verma,East,Books,SQL for Beginners,5,22.65,10,113.25,11.32,101.93,UPI,No,4,November,11,2024,2024Q4,4,0
+10009,2024-02-13,2024-02-16,Same Day,C119,Nikhil Shah,West,Clothing,Swim Shorts,3,87.36,10,262.08,26.21,235.87,Credit Card,No,2,February,2,2024,2024Q1,3,0
+10010,2024-09-02,2024-09-03,Express,C114,Riya Desai,Central,Toys & Games,LEGO Classic Set,2,79.58,0,159.16,0.0,159.16,Debit Card,No,5,September,9,2024,2024Q3,1,0
+10011,2024-10-18,2024-10-21,Standard,C109,Arjun Kumar,West,Beauty,Toner Mist,1,66.83,20,66.83,13.37,53.46,Credit Card,No,4,October,10,2024,2024Q4,3,0
+10012,2023-04-19,2023-04-26,Same Day,C117,Rahul Pandey,South,Sports,Knee Support,5,90.57,0,452.85,0.0,452.85,UPI,No,5,April,4,2023,2023Q2,7,0
+10013,2023-11-28,2023-12-02,Express,C120,Tanvi Choudhary,South,Home & Kitchen,Non-stick Pan,5,51.0,0,255.0,0.0,255.0,Credit Card,Yes,2,November,11,2023,2023Q4,4,1
+10014,2023-03-12,2023-03-19,Standard,C116,Kavya Reddy,West,Clothing,Ankle Boots,1,88.08,0,88.08,0.0,88.08,Cash on Delivery,No,2,March,3,2023,2023Q1,7,0
+10015,2024-07-06,2024-07-13,Same Day,C107,Karan Verma,East,Clothing,Linen Dress,5,83.32,10,416.6,41.66,374.94,Net Banking,No,2,July,7,2024,2024Q3,7,0
+10016,2023-09-11,2023-09-13,Same Day,C104,Sneha Gupta,Central,Sports,Badminton Set,5,54.21,15,271.05,40.66,230.39,UPI,Yes,1,September,9,2023,2023Q3,2,1
+10017,2023-02-02,2023-02-09,Standard,C103,Rohan Mehta,East,Beauty,Face Serum,1,15.4,5,15.4,0.77,14.63,Net Banking,No,5,February,2,2023,2023Q1,7,0
+10018,2024-04-29,2024-05-06,Standard,C108,Divya Joshi,West,Clothing,Polo T-Shirts,5,35.88,15,179.4,26.91,152.49,Debit Card,No,1,April,4,2024,2024Q2,7,0
+10019,2024-02-17,2024-02-23,Standard,C102,Priya Patel,South,Books,Cloud Computing Guide,1,38.68,0,38.68,0.0,38.68,UPI,No,1,February,2,2024,2024Q1,6,0
+10020,2023-09-13,2023-09-20,Same Day,C115,Aditya Bose,North,Beauty,Hair Care Pack,2,22.71,5,45.42,2.27,43.15,Credit Card,No,4,September,9,2023,2023Q3,7,0
+10021,2024-02-21,2024-02-25,Standard,C106,Ananya Singh,South,Sports,Cycling Helmet,1,102.78,5,102.78,5.14,97.64,Net Banking,No,4,February,2,2024,2024Q1,4,0
+10022,2024-12-14,2024-12-20,Same Day,C114,Riya Desai,West,Electronics,Portable Charger,4,66.11,5,264.44,13.22,251.22,UPI,No,5,December,12,2024,2024Q4,6,0
+10023,2023-11-18,2023-11-19,Same Day,C102,Priya Patel,Central,Clothing,Linen Dress,1,46.12,20,46.12,9.22,36.9,UPI,Yes,2,November,11,2023,2023Q4,1,1
+10024,2023-03-11,2023-03-17,Standard,C120,Tanvi Choudhary,Central,Electronics,Mechanical Keyboard,2,37.42,0,74.84,0.0,74.84,UPI,No,4,March,3,2023,2023Q1,6,0
+10025,2024-08-01,2024-08-06,Standard,C119,Nikhil Shah,East,Beauty,Lip Care Set,1,17.19,10,17.19,1.72,15.47,UPI,No,3,August,8,2024,2024Q3,5,0
+10026,2023-03-16,2023-03-17,Standard,C111,Siddharth Rao,North,Home & Kitchen,Toaster Oven,3,47.01,15,141.03,21.15,119.88,Cash on Delivery,No,5,March,3,2023,2023Q1,1,0
+10027,2024-01-14,2024-01-17,Same Day,C108,Divya Joshi,East,Clothing,Polo T-Shirts,3,51.82,0,155.46,0.0,155.46,Cash on Delivery,No,5,January,1,2024,2024Q1,3,0
+10028,2023-05-18,2023-05-21,Same Day,C104,Sneha Gupta,Central,Toys & Games,Drawing Tablet,5,54.67,5,273.35,13.67,259.68,UPI,No,1,May,5,2023,2023Q2,3,0
+10029,2024-06-01,2024-06-05,Standard,C109,Arjun Kumar,West,Home & Kitchen,Instant Pot,3,108.63,5,325.89,16.29,309.6,Debit Card,No,1,June,6,2024,2024Q2,4,0
+10030,2024-03-28,2024-04-02,Standard,C106,Ananya Singh,North,Electronics,Laptop,2,76.7,5,153.4,7.67,145.73,Credit Card,No,5,March,3,2024,2024Q1,5,0
+10031,2024-07-19,2024-07-21,Express,C119,Nikhil Shah,East,Sports,Knee Support,1,30.65,10,30.65,3.06,27.59,Credit Card,No,1,July,7,2024,2024Q3,2,0
+10032,2024-02-21,2024-02-26,Standard,C118,Shreya Malhotra,South,Home & Kitchen,Rice Cooker,1,118.67,10,118.67,11.87,106.8,Net Banking,No,2,February,2,2024,2024Q1,5,0
+10033,2023-10-01,2023-10-03,Express,C108,Divya Joshi,North,Electronics,Bluetooth Speaker,3,139.17,10,417.51,41.75,375.76,Net Banking,No,1,October,10,2023,2023Q4,2,0
+10034,2023-08-22,2023-08-24,Express,C110,Pooja Iyer,East,Clothing,Yoga Pants,4,117.99,10,471.96,47.2,424.76,Debit Card,Yes,1,August,8,2023,2023Q3,2,1
+10035,2024-02-14,2024-02-20,Express,C117,Rahul Pandey,North,Toys & Games,Remote Control Car,3,87.52,10,262.56,26.26,236.3,Credit Card,No,5,February,2,2024,2024Q1,6,0
+10036,2024-09-02,2024-09-06,Express,C104,Sneha Gupta,Central,Home & Kitchen,Blender,3,105.48,0,316.44,0.0,316.44,Cash on Delivery,No,3,September,9,2024,2024Q3,4,0
+10037,2024-12-26,2024-12-30,Same Day,C102,Priya Patel,South,Electronics,Portable Charger,2,164.42,5,328.84,16.44,312.4,Debit Card,Yes,3,December,12,2024,2024Q4,4,1
+10038,2023-11-04,2023-11-09,Express,C104,Sneha Gupta,West,Books,Machine Learning Guide,3,57.95,10,173.85,17.39,156.46,Debit Card,No,4,November,11,2023,2023Q4,5,0
+10039,2024-08-05,2024-08-08,Express,C120,Tanvi Choudhary,East,Beauty,Moisturizer Cream,4,25.55,0,102.2,0.0,102.2,UPI,No,1,August,8,2024,2024Q3,3,0
+10040,2024-03-28,2024-04-03,Same Day,C115,Aditya Bose,South,Books,Pandas for Analysts,3,43.2,15,129.6,19.44,110.16,Credit Card,No,4,March,3,2024,2024Q1,6,0
+10041,2023-08-29,2023-09-04,Standard,C103,Rohan Mehta,North,Home & Kitchen,Food Processor,5,116.3,10,581.5,58.15,523.35,Credit Card,No,2,August,8,2023,2023Q3,6,0
+10042,2024-10-06,2024-10-11,Express,C114,Riya Desai,West,Clothing,Sports Shorts,1,93.35,15,93.35,14.0,79.35,UPI,No,4,October,10,2024,2024Q4,5,0
+10043,2023-06-30,2023-07-07,Express,C108,Divya Joshi,North,Clothing,Maxi Dress,1,102.51,10,102.51,10.25,92.26,Cash on Delivery,No,5,June,6,2023,2023Q2,7,0
+10044,2024-11-14,2024-11-19,Express,C115,Aditya Bose,West,Clothing,Ankle Boots,4,121.8,0,487.2,0.0,487.2,Cash on Delivery,No,5,November,11,2024,2024Q4,5,0
+10045,2023-06-12,2023-06-18,Express,C115,Aditya Bose,South,Toys & Games,Kite,4,81.9,20,327.6,65.52,262.08,Debit Card,No,4,June,6,2023,2023Q2,6,0
+10046,2023-03-21,2023-03-27,Express,C115,Aditya Bose,East,Toys & Games,Rubik's Cube,2,54.1,5,108.2,5.41,102.79,Cash on Delivery,No,3,March,3,2023,2023Q1,6,0
+10047,2023-03-07,2023-03-11,Express,C107,Karan Verma,West,Electronics,Bluetooth Speaker,4,48.38,0,193.52,0.0,193.52,Credit Card,No,5,March,3,2023,2023Q1,4,0
+10048,2024-01-25,2024-01-29,Express,C119,Nikhil Shah,West,Clothing,Leather Belt,5,70.42,0,352.1,0.0,352.1,Net Banking,Yes,2,January,1,2024,2024Q1,4,1
+10049,2023-08-13,2023-08-16,Express,C116,Kavya Reddy,East,Beauty,Eye Cream,5,55.4,5,277.0,13.85,263.15,Net Banking,No,1,August,8,2023,2023Q3,3,0
+10050,2024-02-08,2024-02-13,Standard,C101,Aarav Sharma,West,Sports,Dumbbell Set,2,103.25,20,206.5,41.3,165.2,UPI,No,1,February,2,2024,2024Q1,5,0
+10051,2023-08-05,2023-08-09,Express,C111,Siddharth Rao,West,Toys & Games,Card Game,3,28.63,10,85.89,8.59,77.3,Debit Card,No,4,August,8,2023,2023Q3,4,0
+10052,2023-08-18,2023-08-24,Standard,C112,Neha Tiwari,North,Toys & Games,Remote Control Car,5,50.27,0,251.35,0.0,251.35,UPI,Yes,3,August,8,2023,2023Q3,6,1
+10053,2024-04-29,2024-05-05,Express,C105,Vikram Nair,East,Clothing,Leather Belt,2,22.45,5,44.9,2.25,42.65,Debit Card,No,2,April,4,2024,2024Q2,6,0
+10054,2023-04-21,2023-04-26,Same Day,C110,Pooja Iyer,West,Clothing,Chinos Pants,1,92.87,0,92.87,0.0,92.87,Net Banking,Yes,2,April,4,2023,2023Q2,5,1
+10055,2024-12-01,2024-12-06,Standard,C110,Pooja Iyer,East,Sports,Jump Rope,2,22.98,0,45.96,0.0,45.96,Cash on Delivery,No,5,December,12,2024,2024Q4,5,0
+10056,2024-03-06,2024-03-13,Express,C101,Aarav Sharma,West,Books,Big Data Analytics,5,34.82,10,174.1,17.41,156.69,UPI,No,4,March,3,2024,2024Q1,7,0
+10057,2024-04-21,2024-04-25,Express,C116,Kavya Reddy,East,Books,Python Cookbook,3,49.35,20,148.05,29.61,118.44,UPI,No,5,April,4,2024,2024Q2,4,0
+10058,2024-08-06,2024-08-11,Standard,C115,Aditya Bose,West,Toys & Games,Dart Board,4,21.5,5,86.0,4.3,81.7,Debit Card,No,3,August,8,2024,2024Q3,5,0
+10059,2024-09-02,2024-09-08,Standard,C109,Arjun Kumar,Central,Clothing,Sports Shorts,3,45.45,10,136.35,13.63,122.72,UPI,No,5,September,9,2024,2024Q3,6,0
+10060,2024-12-08,2024-12-12,Express,C108,Divya Joshi,North,Electronics,USB-C Hub,4,136.61,20,546.44,109.29,437.15,Credit Card,No,4,December,12,2024,2024Q4,4,0
+10061,2024-01-13,2024-01-17,Express,C119,Nikhil Shah,Central,Home & Kitchen,Rice Cooker,2,82.57,5,165.14,8.26,156.88,Debit Card,No,3,January,1,2024,2024Q1,4,0
+10062,2023-05-04,2023-05-10,Same Day,C108,Divya Joshi,Central,Home & Kitchen,Juicer,3,88.99,5,266.97,13.35,253.62,UPI,No,1,May,5,2023,2023Q2,6,0
+10063,2023-10-17,2023-10-18,Standard,C120,Tanvi Choudhary,East,Clothing,Yoga Pants,3,108.63,20,325.89,65.18,260.71,UPI,No,3,October,10,2023,2023Q4,1,0
+10064,2023-02-25,2023-03-02,Same Day,C102,Priya Patel,West,Home & Kitchen,Air Fryer,2,122.04,5,244.08,12.2,231.88,Credit Card,No,2,February,2,2023,2023Q1,5,0
+10065,2023-12-15,2023-12-17,Express,C115,Aditya Bose,North,Toys & Games,LEGO Classic Set,4,58.05,15,232.2,34.83,197.37,Credit Card,No,3,December,12,2023,2023Q4,2,0
+10066,2024-07-30,2024-08-02,Standard,C105,Vikram Nair,Central,Books,Statistics for Data Science,1,22.96,0,22.96,0.0,22.96,Net Banking,No,2,July,7,2024,2024Q3,3,0
+10067,2024-04-06,2024-04-10,Express,C113,Manish Agarwal,East,Beauty,Lip Care Set,2,58.49,20,116.98,23.4,93.58,Cash on Delivery,No,5,April,4,2024,2024Q2,4,0
+10068,2023-09-28,2023-10-04,Standard,C107,Karan Verma,Central,Beauty,Skincare Set,1,48.53,5,48.53,2.43,46.1,Credit Card,No,2,September,9,2023,2023Q3,6,0
+10069,2023-02-03,2023-02-05,Same Day,C110,Pooja Iyer,West,Clothing,Running Shoes,5,69.02,15,345.1,51.77,293.33,Credit Card,No,3,February,2,2023,2023Q1,2,0
+10070,2023-04-28,2023-05-03,Express,C114,Riya Desai,South,Sports,Jump Rope,5,112.01,5,560.05,28.0,532.05,Credit Card,No,2,April,4,2023,2023Q2,5,0
+10071,2023-05-08,2023-05-12,Express,C115,Aditya Bose,Central,Electronics,Bluetooth Speaker,5,147.86,5,739.3,36.97,702.33,Cash on Delivery,No,4,May,5,2023,2023Q2,4,0
+10072,2024-09-10,2024-09-13,Same Day,C111,Siddharth Rao,Central,Books,Statistics for Data Science,1,23.22,10,23.22,2.32,20.9,Cash on Delivery,Yes,1,September,9,2024,2024Q3,3,1
+10073,2024-04-26,2024-05-01,Standard,C106,Ananya Singh,Central,Electronics,Gaming Mouse,3,129.2,0,387.6,0.0,387.6,Net Banking,No,3,April,4,2024,2024Q2,5,0
+10074,2024-02-23,2024-02-26,Standard,C112,Neha Tiwari,East,Sports,Swim Goggles,1,66.63,15,66.63,9.99,56.64,Net Banking,No,1,February,2,2024,2024Q1,3,0
+10075,2024-04-10,2024-04-11,Standard,C102,Priya Patel,West,Sports,Foam Roller,4,45.26,20,181.04,36.21,144.83,Cash on Delivery,No,3,April,4,2024,2024Q2,1,0
+10076,2023-02-25,2023-02-27,Express,C114,Riya Desai,West,Toys & Games,LEGO Classic Set,5,64.32,15,321.6,48.24,273.36,Credit Card,No,5,February,2,2023,2023Q1,2,0
+10077,2023-05-05,2023-05-06,Standard,C116,Kavya Reddy,South,Clothing,Linen Dress,3,85.91,15,257.73,38.66,219.07,Debit Card,No,5,May,5,2023,2023Q2,1,0
+10078,2024-04-17,2024-04-18,Express,C104,Sneha Gupta,East,Beauty,Skincare Set,1,45.37,5,45.37,2.27,43.1,Cash on Delivery,No,2,April,4,2024,2024Q2,1,0
+10079,2024-04-12,2024-04-17,Same Day,C108,Divya Joshi,Central,Sports,Water Bottle,4,58.63,15,234.52,35.18,199.34,UPI,No,2,April,4,2024,2024Q2,5,0
+10080,2023-10-01,2023-10-08,Express,C117,Rahul Pandey,Central,Toys & Games,Remote Control Car,4,35.72,10,142.88,14.29,128.59,Cash on Delivery,Yes,3,October,10,2023,2023Q4,7,1
+10081,2023-12-20,2023-12-23,Express,C116,Kavya Reddy,West,Sports,Foam Roller,4,105.85,20,423.4,84.68,338.72,Debit Card,No,5,December,12,2023,2023Q4,3,0
+10082,2024-02-25,2024-02-26,Same Day,C108,Divya Joshi,West,Toys & Games,Puzzle 1000pc,2,88.56,10,177.12,17.71,159.41,Net Banking,No,4,February,2,2024,2024Q1,1,0
+10083,2023-05-10,2023-05-15,Standard,C102,Priya Patel,West,Sports,Football,2,101.18,15,202.36,30.35,172.01,Credit Card,No,3,May,5,2023,2023Q2,5,0
+10084,2023-03-18,2023-03-22,Express,C105,Vikram Nair,Central,Beauty,BB Cream,2,40.13,10,80.26,8.03,72.23,Net Banking,No,3,March,3,2023,2023Q1,4,0
+10085,2024-10-03,2024-10-09,Same Day,C111,Siddharth Rao,North,Sports,Resistance Bands,5,104.44,10,522.2,52.22,469.98,Cash on Delivery,No,4,October,10,2024,2024Q4,6,0
+10086,2024-03-20,2024-03-21,Express,C103,Rohan Mehta,South,Electronics,USB-C Hub,3,122.83,5,368.49,18.42,350.07,Debit Card,No,1,March,3,2024,2024Q1,1,0
+10087,2024-01-19,2024-01-23,Express,C112,Neha Tiwari,Central,Electronics,Laptop,1,75.28,5,75.28,3.76,71.52,UPI,No,5,January,1,2024,2024Q1,4,0
+10088,2024-08-20,2024-08-22,Express,C116,Kavya Reddy,East,Clothing,Formal Shirt,4,29.48,5,117.92,5.9,112.02,Credit Card,No,3,August,8,2024,2024Q3,2,0
+10089,2024-03-28,2024-03-31,Same Day,C103,Rohan Mehta,West,Toys & Games,Card Game,5,82.59,0,412.95,0.0,412.95,Debit Card,No,3,March,3,2024,2024Q1,3,0
+10090,2023-08-31,2023-09-04,Express,C104,Sneha Gupta,East,Books,System Design Primer,4,32.08,15,128.32,19.25,109.07,Credit Card,No,5,August,8,2023,2023Q3,4,0
+10091,2024-05-23,2024-05-30,Standard,C120,Tanvi Choudhary,Central,Toys & Games,Drawing Tablet,1,44.69,0,44.69,0.0,44.69,Debit Card,No,3,May,5,2024,2024Q2,7,0
+10092,2024-10-04,2024-10-10,Standard,C104,Sneha Gupta,Central,Clothing,Maxi Dress,3,42.82,0,128.46,0.0,128.46,Debit Card,Yes,2,October,10,2024,2024Q4,6,1
+10093,2023-06-29,2023-07-01,Express,C114,Riya Desai,Central,Sports,Dumbbell Set,3,24.46,10,73.38,7.34,66.04,Cash on Delivery,No,5,June,6,2023,2023Q2,2,0
+10094,2023-04-28,2023-05-02,Standard,C111,Siddharth Rao,West,Home & Kitchen,Pressure Cooker,4,51.39,5,205.56,10.28,195.28,Cash on Delivery,No,2,April,4,2023,2023Q2,4,0
+10095,2023-05-07,2023-05-11,Same Day,C118,Shreya Malhotra,West,Home & Kitchen,Coffee Maker,1,132.79,5,132.79,6.64,126.15,Debit Card,No,3,May,5,2023,2023Q2,4,0
+10096,2024-09-16,2024-09-18,Same Day,C111,Siddharth Rao,East,Electronics,Ring Light,1,61.24,20,61.24,12.25,48.99,Net Banking,No,4,September,9,2024,2024Q3,2,0
+10097,2023-04-29,2023-04-30,Standard,C116,Kavya Reddy,West,Electronics,Bluetooth Speaker,1,32.03,5,32.03,1.6,30.43,Net Banking,No,5,April,4,2023,2023Q2,1,0
+10098,2023-06-08,2023-06-12,Same Day,C119,Nikhil Shah,West,Home & Kitchen,Hand Mixer,5,153.42,10,767.1,76.71,690.39,Debit Card,No,4,June,6,2023,2023Q2,4,0
+10099,2024-01-07,2024-01-08,Same Day,C108,Divya Joshi,East,Electronics,Smart Bulb Set,4,82.43,15,329.72,49.46,280.26,Credit Card,No,3,January,1,2024,2024Q1,1,0
+10100,2024-11-09,2024-11-11,Standard,C103,Rohan Mehta,North,Books,SQL for Beginners,1,27.59,15,27.59,4.14,23.45,Debit Card,No,5,November,11,2024,2024Q4,2,0
+10101,2023-08-01,2023-08-06,Express,C118,Shreya Malhotra,South,Clothing,Formal Shirt,2,114.44,0,228.88,0.0,228.88,Cash on Delivery,No,2,August,8,2023,2023Q3,5,0
+10102,2023-09-14,2023-09-21,Standard,C118,Shreya Malhotra,North,Electronics,Smart Watch,2,158.05,0,316.1,0.0,316.1,Debit Card,No,1,September,9,2023,2023Q3,7,0
+10103,2023-09-29,2023-09-30,Same Day,C106,Ananya Singh,North,Toys & Games,Rubik's Cube,3,32.84,0,98.52,0.0,98.52,Credit Card,No,4,September,9,2023,2023Q3,1,0
+10104,2024-05-30,2024-06-01,Same Day,C115,Aditya Bose,Central,Books,Statistics for Data Science,5,51.12,0,255.6,0.0,255.6,Debit Card,No,1,May,5,2024,2024Q2,2,0
+10105,2024-03-12,2024-03-18,Standard,C113,Manish Agarwal,North,Books,Big Data Analytics,1,58.56,15,58.56,8.78,49.78,Debit Card,No,4,March,3,2024,2024Q1,6,0
+10106,2024-01-26,2024-01-31,Same Day,C111,Siddharth Rao,Central,Beauty,Moisturizer Cream,3,18.61,20,55.83,11.17,44.66,Net Banking,No,4,January,1,2024,2024Q1,5,0
+10107,2024-04-07,2024-04-09,Express,C114,Riya Desai,West,Electronics,Gaming Mouse,5,133.78,5,668.9,33.45,635.45,Credit Card,No,4,April,4,2024,2024Q2,2,0
+10108,2024-12-04,2024-12-08,Standard,C105,Vikram Nair,West,Home & Kitchen,Toaster Oven,3,70.63,10,211.89,21.19,190.7,Credit Card,Yes,1,December,12,2024,2024Q4,4,1
+10109,2024-08-23,2024-08-28,Express,C102,Priya Patel,East,Sports,Cricket Bat,2,54.13,20,108.26,21.65,86.61,Net Banking,No,1,August,8,2024,2024Q3,5,0
+10110,2023-04-17,2023-04-22,Same Day,C112,Neha Tiwari,West,Toys & Games,Dart Board,3,69.08,5,207.24,10.36,196.88,UPI,No,2,April,4,2023,2023Q2,5,0
+10111,2023-10-13,2023-10-18,Same Day,C104,Sneha Gupta,Central,Toys & Games,Remote Control Car,5,41.26,10,206.3,20.63,185.67,Cash on Delivery,No,4,October,10,2023,2023Q4,5,0
+10112,2023-07-04,2023-07-07,Express,C101,Aarav Sharma,East,Sports,Badminton Set,5,73.46,5,367.3,18.36,348.94,Credit Card,No,3,July,7,2023,2023Q3,3,0
+10113,2024-10-10,2024-10-11,Standard,C105,Vikram Nair,West,Clothing,Leather Belt,4,37.19,0,148.76,0.0,148.76,Net Banking,No,5,October,10,2024,2024Q4,1,0
+10114,2024-09-02,2024-09-03,Standard,C119,Nikhil Shah,Central,Books,NLP with Python,3,26.3,10,78.9,7.89,71.01,Credit Card,No,2,September,9,2024,2024Q3,1,0
+10115,2024-03-28,2024-04-01,Standard,C120,Tanvi Choudhary,East,Sports,Resistance Bands,4,43.57,15,174.28,26.14,148.14,Net Banking,No,5,March,3,2024,2024Q1,4,0
+10116,2024-11-14,2024-11-17,Same Day,C117,Rahul Pandey,North,Electronics,Smart Watch,5,130.12,15,650.6,97.59,553.01,Credit Card,Yes,2,November,11,2024,2024Q4,3,1
+10117,2023-12-02,2023-12-03,Express,C110,Pooja Iyer,South,Clothing,Linen Dress,2,133.44,5,266.88,13.34,253.54,UPI,Yes,3,December,12,2023,2023Q4,1,1
+10118,2023-03-15,2023-03-19,Express,C112,Neha Tiwari,North,Books,Visualization with Python,5,48.15,20,240.75,48.15,192.6,Net Banking,No,1,March,3,2023,2023Q1,4,0
+10119,2023-10-24,2023-10-25,Standard,C114,Riya Desai,Central,Electronics,Monitor Light Bar,4,73.52,10,294.08,29.41,264.67,Net Banking,No,3,October,10,2023,2023Q4,1,0
+10120,2023-09-07,2023-09-11,Standard,C104,Sneha Gupta,West,Toys & Games,Kite,1,83.98,10,83.98,8.4,75.58,Debit Card,No,5,September,9,2023,2023Q3,4,0
+10121,2024-10-10,2024-10-11,Express,C117,Rahul Pandey,East,Sports,Gym Gloves,2,38.27,0,76.54,0.0,76.54,UPI,No,2,October,10,2024,2024Q4,1,0
+10122,2023-06-06,2023-06-13,Standard,C120,Tanvi Choudhary,West,Clothing,Winter Jacket,2,37.57,0,75.14,0.0,75.14,Net Banking,No,1,June,6,2023,2023Q2,7,0
+10123,2023-06-04,2023-06-08,Same Day,C111,Siddharth Rao,East,Toys & Games,Wooden Blocks,4,71.99,10,287.96,28.8,259.16,Debit Card,Yes,2,June,6,2023,2023Q2,4,1
+10124,2024-04-07,2024-04-08,Standard,C115,Aditya Bose,North,Beauty,Skincare Set,1,34.36,5,34.36,1.72,32.64,Cash on Delivery,Yes,2,April,4,2024,2024Q2,1,1
+10125,2024-04-05,2024-04-12,Express,C102,Priya Patel,Central,Beauty,Men Grooming Kit,5,36.15,20,180.75,36.15,144.6,Net Banking,No,2,April,4,2024,2024Q2,7,0
+10126,2023-03-28,2023-04-02,Standard,C111,Siddharth Rao,West,Beauty,Moisturizer Cream,4,67.67,0,270.68,0.0,270.68,Net Banking,No,1,March,3,2023,2023Q1,5,0
+10127,2024-02-01,2024-02-05,Standard,C110,Pooja Iyer,East,Beauty,Men Grooming Kit,3,48.54,10,145.62,14.56,131.06,Credit Card,No,5,February,2,2024,2024Q1,4,0
+10128,2024-11-03,2024-11-08,Standard,C109,Arjun Kumar,Central,Home & Kitchen,Coffee Maker,4,102.54,5,410.16,20.51,389.65,UPI,No,3,November,11,2024,2024Q4,5,0
+10129,2024-12-26,2024-12-27,Same Day,C120,Tanvi Choudhary,East,Home & Kitchen,Instant Pot,4,155.8,0,623.2,0.0,623.2,UPI,No,4,December,12,2024,2024Q4,1,0
+10130,2024-06-04,2024-06-07,Standard,C114,Riya Desai,South,Sports,Cricket Bat,5,102.04,0,510.2,0.0,510.2,Debit Card,Yes,2,June,6,2024,2024Q2,3,1
+10131,2023-10-30,2023-11-06,Same Day,C103,Rohan Mehta,Central,Toys & Games,Card Game,2,29.4,0,58.8,0.0,58.8,Credit Card,No,5,October,10,2023,2023Q4,7,0
+10132,2024-01-21,2024-01-23,Standard,C120,Tanvi Choudhary,West,Sports,Gym Gloves,5,107.02,0,535.1,0.0,535.1,Credit Card,No,5,January,1,2024,2024Q1,2,0
+10133,2023-10-19,2023-10-26,Standard,C120,Tanvi Choudhary,Central,Books,NLP with Python,2,47.05,15,94.1,14.12,79.98,UPI,No,4,October,10,2023,2023Q4,7,0
+10134,2024-03-27,2024-03-31,Same Day,C119,Nikhil Shah,Central,Home & Kitchen,Non-stick Pan,2,131.97,10,263.94,26.39,237.55,Net Banking,No,4,March,3,2024,2024Q1,4,0
+10135,2023-02-23,2023-03-01,Same Day,C109,Arjun Kumar,North,Clothing,Leather Belt,5,43.96,0,219.8,0.0,219.8,Cash on Delivery,No,3,February,2,2023,2023Q1,6,0
+10136,2024-06-09,2024-06-11,Standard,C115,Aditya Bose,West,Toys & Games,Remote Control Car,2,36.38,5,72.76,3.64,69.12,Debit Card,No,1,June,6,2024,2024Q2,2,0
+10137,2024-01-31,2024-02-01,Express,C108,Divya Joshi,North,Electronics,Portable Charger,5,33.25,10,166.25,16.62,149.63,Debit Card,No,1,January,1,2024,2024Q1,1,0
+10138,2024-12-23,2024-12-27,Standard,C105,Vikram Nair,North,Toys & Games,Board Game,3,25.32,15,75.96,11.39,64.57,Debit Card,No,1,December,12,2024,2024Q4,4,0
+10139,2023-04-24,2023-05-01,Standard,C114,Riya Desai,North,Clothing,Leather Belt,5,37.94,20,189.7,37.94,151.76,UPI,No,3,April,4,2023,2023Q2,7,0
+10140,2024-05-26,2024-05-31,Same Day,C104,Sneha Gupta,South,Books,Big Data Analytics,4,51.76,0,207.04,0.0,207.04,UPI,No,5,May,5,2024,2024Q2,5,0
+10141,2024-03-02,2024-03-04,Same Day,C119,Nikhil Shah,East,Home & Kitchen,Toaster Oven,3,30.2,5,90.6,4.53,86.07,Credit Card,No,1,March,3,2024,2024Q1,2,0
+10142,2024-02-04,2024-02-11,Express,C101,Aarav Sharma,East,Beauty,Men Grooming Kit,5,42.9,20,214.5,42.9,171.6,Credit Card,No,4,February,2,2024,2024Q1,7,0
+10143,2023-12-07,2023-12-09,Express,C119,Nikhil Shah,South,Home & Kitchen,Non-stick Pan,2,38.78,0,77.56,0.0,77.56,Net Banking,Yes,3,December,12,2023,2023Q4,2,1
+10144,2023-02-07,2023-02-10,Standard,C115,Aditya Bose,East,Sports,Foam Roller,2,81.33,0,162.66,0.0,162.66,Debit Card,No,2,February,2,2023,2023Q1,3,0
+10145,2023-02-07,2023-02-14,Express,C109,Arjun Kumar,North,Beauty,Shaving Kit,5,69.4,15,347.0,52.05,294.95,Debit Card,No,3,February,2,2023,2023Q1,7,0
+10146,2024-01-31,2024-02-03,Same Day,C115,Aditya Bose,West,Home & Kitchen,Coffee Maker,4,133.91,10,535.64,53.56,482.08,Debit Card,No,4,January,1,2024,2024Q1,3,0
+10147,2024-03-16,2024-03-21,Same Day,C103,Rohan Mehta,East,Toys & Games,Magnetic Tiles,1,35.0,10,35.0,3.5,31.5,Debit Card,No,2,March,3,2024,2024Q1,5,0
+10148,2024-09-09,2024-09-15,Express,C115,Aditya Bose,West,Electronics,Wireless Mouse,3,75.83,5,227.49,11.37,216.12,Credit Card,No,4,September,9,2024,2024Q3,6,0
+10149,2024-10-16,2024-10-23,Same Day,C109,Arjun Kumar,West,Sports,Swim Goggles,5,110.72,10,553.6,55.36,498.24,Debit Card,No,1,October,10,2024,2024Q4,7,0
+10150,2024-09-14,2024-09-20,Standard,C105,Vikram Nair,North,Beauty,Face Mask Pack,2,56.24,0,112.48,0.0,112.48,UPI,No,1,September,9,2024,2024Q3,6,0
+10151,2023-06-07,2023-06-13,Express,C120,Tanvi Choudhary,West,Toys & Games,Drawing Tablet,4,42.47,0,169.88,0.0,169.88,Credit Card,No,3,June,6,2023,2023Q2,6,0
+10152,2023-09-13,2023-09-14,Express,C109,Arjun Kumar,Central,Beauty,Moisturizer Cream,4,44.12,10,176.48,17.65,158.83,Net Banking,Yes,1,September,9,2023,2023Q3,1,1
+10153,2024-09-18,2024-09-21,Standard,C107,Karan Verma,North,Beauty,Perfume Gift Set,3,29.4,15,88.2,13.23,74.97,UPI,No,4,September,9,2024,2024Q3,3,0
+10154,2024-11-14,2024-11-17,Same Day,C111,Siddharth Rao,East,Toys & Games,Remote Control Car,4,48.9,0,195.6,0.0,195.6,Debit Card,No,5,November,11,2024,2024Q4,3,0
+10155,2023-08-18,2023-08-19,Standard,C117,Rahul Pandey,West,Toys & Games,Board Game,2,68.39,10,136.78,13.68,123.1,Credit Card,No,2,August,8,2023,2023Q3,1,0
+10156,2024-09-18,2024-09-19,Same Day,C105,Vikram Nair,West,Home & Kitchen,Food Processor,4,104.4,20,417.6,83.52,334.08,Cash on Delivery,Yes,2,September,9,2024,2024Q3,1,1
+10157,2023-11-21,2023-11-27,Same Day,C105,Vikram Nair,Central,Books,Pandas for Analysts,5,36.38,0,181.9,0.0,181.9,Debit Card,Yes,2,November,11,2023,2023Q4,6,1
+10158,2024-03-19,2024-03-24,Standard,C105,Vikram Nair,Central,Clothing,Ankle Boots,5,119.49,0,597.45,0.0,597.45,UPI,No,1,March,3,2024,2024Q1,5,0
+10159,2023-10-18,2023-10-25,Same Day,C117,Rahul Pandey,Central,Home & Kitchen,Blender,2,51.06,10,102.12,10.21,91.91,Debit Card,Yes,1,October,10,2023,2023Q4,7,1
+10160,2024-10-18,2024-10-20,Standard,C117,Rahul Pandey,South,Clothing,Maxi Dress,5,56.34,0,281.7,0.0,281.7,Cash on Delivery,No,5,October,10,2024,2024Q4,2,0
+10161,2023-03-25,2023-03-26,Express,C101,Aarav Sharma,South,Sports,Knee Support,5,78.54,0,392.7,0.0,392.7,Cash on Delivery,No,5,March,3,2023,2023Q1,1,0
+10162,2024-10-19,2024-10-22,Express,C110,Pooja Iyer,West,Books,R for Data Science,4,45.56,20,182.24,36.45,145.79,Credit Card,No,4,October,10,2024,2024Q4,3,0
+10163,2023-07-28,2023-07-31,Same Day,C115,Aditya Bose,East,Sports,Yoga Mat,4,31.6,15,126.4,18.96,107.44,Debit Card,No,3,July,7,2023,2023Q3,3,0
+10164,2023-11-23,2023-11-25,Express,C104,Sneha Gupta,South,Books,Python Cookbook,5,50.43,20,252.15,50.43,201.72,UPI,No,3,November,11,2023,2023Q4,2,0
+10165,2023-06-13,2023-06-20,Same Day,C108,Divya Joshi,East,Electronics,Laptop,4,69.98,10,279.92,27.99,251.93,UPI,No,5,June,6,2023,2023Q2,7,0
+10166,2023-11-12,2023-11-16,Same Day,C116,Kavya Reddy,West,Toys & Games,Board Game,5,52.37,15,261.85,39.28,222.57,UPI,Yes,2,November,11,2023,2023Q4,4,1
+10167,2024-09-03,2024-09-10,Express,C116,Kavya Reddy,Central,Clothing,Chinos Pants,1,62.35,5,62.35,3.12,59.23,Credit Card,No,4,September,9,2024,2024Q3,7,0
+10168,2024-01-10,2024-01-11,Same Day,C113,Manish Agarwal,South,Toys & Games,Remote Control Car,3,47.32,10,141.96,14.2,127.76,Debit Card,No,5,January,1,2024,2024Q1,1,0
+10169,2023-10-14,2023-10-21,Standard,C118,Shreya Malhotra,South,Beauty,Sunscreen SPF50,5,19.04,15,95.2,14.28,80.92,Credit Card,No,5,October,10,2023,2023Q4,7,0
+10170,2023-05-28,2023-05-30,Same Day,C112,Neha Tiwari,North,Books,NLP with Python,3,51.8,20,155.4,31.08,124.32,Credit Card,No,4,May,5,2023,2023Q2,2,0
+10171,2023-06-02,2023-06-07,Express,C115,Aditya Bose,Central,Electronics,Bluetooth Speaker,4,135.61,20,542.44,108.49,433.95,Debit Card,No,2,June,6,2023,2023Q2,5,0
+10172,2024-06-05,2024-06-10,Express,C117,Rahul Pandey,West,Clothing,Casual Sneakers,3,138.87,10,416.61,41.66,374.95,Credit Card,No,5,June,6,2024,2024Q2,5,0
+10173,2024-09-03,2024-09-07,Same Day,C101,Aarav Sharma,South,Home & Kitchen,Electric Kettle,4,117.59,5,470.36,23.52,446.84,Credit Card,No,5,September,9,2024,2024Q3,4,0
+10174,2024-11-28,2024-11-30,Standard,C105,Vikram Nair,South,Beauty,Hair Care Pack,5,24.38,10,121.9,12.19,109.71,Credit Card,Yes,3,November,11,2024,2024Q4,2,1
+10175,2024-05-28,2024-06-04,Same Day,C114,Riya Desai,North,Books,NLP with Python,4,36.75,5,147.0,7.35,139.65,UPI,No,4,May,5,2024,2024Q2,7,0
+10176,2023-11-18,2023-11-20,Express,C113,Manish Agarwal,Central,Beauty,Face Serum,4,45.85,20,183.4,36.68,146.72,Debit Card,No,5,November,11,2023,2023Q4,2,0
+10177,2023-09-10,2023-09-13,Express,C107,Karan Verma,East,Sports,Football,3,106.1,15,318.3,47.74,270.56,UPI,No,2,September,9,2023,2023Q3,3,0
+10178,2023-10-08,2023-10-11,Express,C118,Shreya Malhotra,West,Sports,Cricket Bat,4,66.35,10,265.4,26.54,238.86,Debit Card,No,5,October,10,2023,2023Q4,3,0
+10179,2023-12-21,2023-12-25,Standard,C103,Rohan Mehta,South,Toys & Games,Rubik's Cube,1,25.99,5,25.99,1.3,24.69,Cash on Delivery,No,4,December,12,2023,2023Q4,4,0
+10180,2024-09-22,2024-09-28,Standard,C104,Sneha Gupta,Central,Home & Kitchen,Water Filter,3,103.06,0,309.18,0.0,309.18,UPI,No,2,September,9,2024,2024Q3,6,0
+10181,2023-04-13,2023-04-19,Same Day,C116,Kavya Reddy,South,Sports,Jump Rope,4,20.51,10,82.04,8.2,73.84,Net Banking,No,1,April,4,2023,2023Q2,6,0
+10182,2023-10-22,2023-10-25,Standard,C107,Karan Verma,Central,Sports,Knee Support,4,107.47,15,429.88,64.48,365.4,UPI,No,1,October,10,2023,2023Q4,3,0
+10183,2023-06-30,2023-07-01,Express,C114,Riya Desai,South,Beauty,Eye Cream,1,54.77,0,54.77,0.0,54.77,Debit Card,No,4,June,6,2023,2023Q2,1,0
+10184,2023-10-19,2023-10-23,Same Day,C111,Siddharth Rao,West,Electronics,Laptop,5,71.25,0,356.25,0.0,356.25,UPI,No,5,October,10,2023,2023Q4,4,0
+10185,2023-06-16,2023-06-22,Same Day,C111,Siddharth Rao,South,Toys & Games,Magnetic Tiles,2,50.1,0,100.2,0.0,100.2,Credit Card,No,3,June,6,2023,2023Q2,6,0
+10186,2024-09-17,2024-09-24,Express,C106,Ananya Singh,Central,Sports,Gym Gloves,5,98.03,5,490.15,24.51,465.64,Debit Card,No,4,September,9,2024,2024Q3,7,0
+10187,2023-11-28,2023-11-30,Standard,C116,Kavya Reddy,West,Electronics,Portable Charger,2,128.73,0,257.46,0.0,257.46,Debit Card,Yes,2,November,11,2023,2023Q4,2,1
+10188,2024-10-31,2024-11-03,Same Day,C109,Arjun Kumar,North,Home & Kitchen,Instant Pot,5,105.72,0,528.6,0.0,528.6,Net Banking,No,1,October,10,2024,2024Q4,3,0
+10189,2024-10-16,2024-10-19,Standard,C104,Sneha Gupta,South,Home & Kitchen,Blender,5,82.7,5,413.5,20.68,392.82,Net Banking,No,2,October,10,2024,2024Q4,3,0
+10190,2024-12-19,2024-12-24,Same Day,C114,Riya Desai,South,Clothing,Sports Shorts,5,109.73,10,548.65,54.87,493.78,UPI,No,5,December,12,2024,2024Q4,5,0
+10191,2024-06-24,2024-06-30,Standard,C115,Aditya Bose,North,Sports,Football,1,77.56,20,77.56,15.51,62.05,Cash on Delivery,No,5,June,6,2024,2024Q2,6,0
+10192,2024-06-16,2024-06-20,Same Day,C111,Siddharth Rao,Central,Beauty,Face Serum,2,46.5,0,93.0,0.0,93.0,Net Banking,No,2,June,6,2024,2024Q2,4,0
+10193,2024-06-09,2024-06-13,Same Day,C105,Vikram Nair,West,Electronics,Tablet Stand,1,104.11,15,104.11,15.62,88.49,Debit Card,No,1,June,6,2024,2024Q2,4,0
+10194,2023-03-16,2023-03-17,Same Day,C119,Nikhil Shah,North,Sports,Yoga Mat,1,56.57,5,56.57,2.83,53.74,Credit Card,No,1,March,3,2023,2023Q1,1,0
+10195,2024-01-19,2024-01-23,Express,C114,Riya Desai,North,Books,Data Science Handbook,2,31.48,0,62.96,0.0,62.96,Cash on Delivery,No,4,January,1,2024,2024Q1,4,0
+10196,2024-02-07,2024-02-12,Standard,C118,Shreya Malhotra,North,Clothing,Maxi Dress,1,123.23,0,123.23,0.0,123.23,Debit Card,No,2,February,2,2024,2024Q1,5,0
+10197,2023-08-24,2023-08-26,Express,C113,Manish Agarwal,South,Books,Big Data Analytics,4,48.76,20,195.04,39.01,156.03,Credit Card,No,2,August,8,2023,2023Q3,2,0
+10198,2023-07-31,2023-08-01,Express,C108,Divya Joshi,Central,Electronics,Gaming Mouse,5,127.33,0,636.65,0.0,636.65,Credit Card,No,1,July,7,2023,2023Q3,1,0
+10199,2023-08-11,2023-08-18,Standard,C118,Shreya Malhotra,Central,Clothing,Swim Shorts,4,25.31,5,101.24,5.06,96.18,Debit Card,No,1,August,8,2023,2023Q3,7,0
+10200,2024-09-04,2024-09-11,Standard,C119,Nikhil Shah,East,Clothing,Leather Belt,5,129.97,10,649.85,64.98,584.87,UPI,No,3,September,9,2024,2024Q3,7,0
+10201,2024-07-24,2024-07-29,Same Day,C102,Priya Patel,West,Sports,Cycling Helmet,3,38.21,5,114.63,5.73,108.9,Cash on Delivery,No,2,July,7,2024,2024Q3,5,0
+10202,2024-12-14,2024-12-18,Express,C111,Siddharth Rao,South,Books,Data Science Handbook,4,58.89,20,235.56,47.11,188.45,Cash on Delivery,No,3,December,12,2024,2024Q4,4,0
+10203,2023-03-01,2023-03-06,Same Day,C115,Aditya Bose,Central,Books,Deep Learning Book,3,53.97,0,161.91,0.0,161.91,UPI,No,4,March,3,2023,2023Q1,5,0
+10204,2024-01-15,2024-01-16,Standard,C115,Aditya Bose,East,Books,Deep Learning Book,3,30.2,0,90.6,0.0,90.6,Net Banking,No,2,January,1,2024,2024Q1,1,0
+10205,2024-11-18,2024-11-23,Express,C119,Nikhil Shah,East,Sports,Running Armband,1,78.31,5,78.31,3.92,74.39,Credit Card,No,2,November,11,2024,2024Q4,5,0
+10206,2024-12-13,2024-12-18,Standard,C108,Divya Joshi,Central,Clothing,Ankle Boots,1,42.8,15,42.8,6.42,36.38,Debit Card,No,4,December,12,2024,2024Q4,5,0
+10207,2023-09-25,2023-09-28,Express,C110,Pooja Iyer,North,Toys & Games,Action Figure,5,43.55,10,217.75,21.77,195.98,Net Banking,No,4,September,9,2023,2023Q3,3,0
+10208,2024-02-28,2024-02-29,Same Day,C111,Siddharth Rao,South,Toys & Games,Chess Set,2,39.02,10,78.04,7.8,70.24,Credit Card,No,2,February,2,2024,2024Q1,1,0
+10209,2023-06-06,2023-06-08,Same Day,C110,Pooja Iyer,South,Home & Kitchen,Food Processor,5,151.52,10,757.6,75.76,681.84,Net Banking,No,4,June,6,2023,2023Q2,2,0
+10210,2024-10-19,2024-10-25,Same Day,C116,Kavya Reddy,East,Beauty,Body Lotion,3,66.89,5,200.67,10.03,190.64,UPI,No,2,October,10,2024,2024Q4,6,0
+10211,2024-06-20,2024-06-21,Same Day,C102,Priya Patel,North,Clothing,Swim Shorts,2,85.59,20,171.18,34.24,136.94,Credit Card,No,1,June,6,2024,2024Q2,1,0
+10212,2023-01-10,2023-01-12,Standard,C105,Vikram Nair,Central,Books,Python Cookbook,2,53.7,0,107.4,0.0,107.4,Cash on Delivery,No,3,January,1,2023,2023Q1,2,0
+10213,2024-02-26,2024-02-27,Express,C118,Shreya Malhotra,Central,Books,Big Data Analytics,1,39.51,20,39.51,7.9,31.61,Debit Card,Yes,3,February,2,2024,2024Q1,1,1
+10214,2023-04-09,2023-04-14,Same Day,C104,Sneha Gupta,Central,Electronics,Mechanical Keyboard,4,151.04,0,604.16,0.0,604.16,Debit Card,No,2,April,4,2023,2023Q2,5,0
+10215,2024-02-20,2024-02-24,Express,C112,Neha Tiwari,North,Toys & Games,Doll House,4,35.05,0,140.2,0.0,140.2,Credit Card,No,2,February,2,2024,2024Q1,4,0
+10216,2024-10-14,2024-10-15,Express,C102,Priya Patel,West,Electronics,Portable Charger,5,83.79,15,418.95,62.84,356.11,Debit Card,No,1,October,10,2024,2024Q4,1,0
+10217,2023-08-05,2023-08-12,Express,C108,Divya Joshi,East,Beauty,Toner Mist,5,68.56,0,342.8,0.0,342.8,Credit Card,No,5,August,8,2023,2023Q3,7,0
+10218,2023-11-19,2023-11-20,Standard,C106,Ananya Singh,West,Electronics,Ring Light,5,168.47,0,842.35,0.0,842.35,Credit Card,No,5,November,11,2023,2023Q4,1,0
+10219,2023-12-06,2023-12-10,Same Day,C118,Shreya Malhotra,North,Home & Kitchen,Blender,5,103.31,10,516.55,51.66,464.89,Cash on Delivery,No,2,December,12,2023,2023Q4,4,0
+10220,2023-12-15,2023-12-20,Express,C103,Rohan Mehta,East,Sports,Gym Gloves,4,20.64,5,82.56,4.13,78.43,Credit Card,No,5,December,12,2023,2023Q4,5,0
+10221,2023-12-31,2024-01-05,Standard,C108,Divya Joshi,Central,Sports,Water Bottle,4,97.27,15,389.08,58.36,330.72,Net Banking,No,4,December,12,2023,2023Q4,5,0
+10222,2023-10-02,2023-10-04,Same Day,C103,Rohan Mehta,West,Electronics,Gaming Mouse,2,120.89,0,241.78,0.0,241.78,Debit Card,No,2,October,10,2023,2023Q4,2,0
+10223,2023-10-04,2023-10-05,Express,C112,Neha Tiwari,West,Home & Kitchen,Coffee Maker,3,41.9,15,125.7,18.86,106.84,Cash on Delivery,No,2,October,10,2023,2023Q4,1,0
+10224,2024-07-21,2024-07-22,Express,C112,Neha Tiwari,North,Beauty,Men Grooming Kit,1,37.44,0,37.44,0.0,37.44,Debit Card,No,3,July,7,2024,2024Q3,1,0
+10225,2024-06-17,2024-06-19,Standard,C119,Nikhil Shah,East,Books,Cloud Computing Guide,5,51.17,5,255.85,12.79,243.06,Debit Card,No,2,June,6,2024,2024Q2,2,0
+10226,2024-03-07,2024-03-10,Express,C109,Arjun Kumar,East,Home & Kitchen,Vacuum Cleaner,2,48.97,10,97.94,9.79,88.15,UPI,No,1,March,3,2024,2024Q1,3,0
+10227,2023-04-20,2023-04-22,Express,C115,Aditya Bose,Central,Sports,Badminton Set,5,67.06,5,335.3,16.77,318.53,Net Banking,No,4,April,4,2023,2023Q2,2,0
+10228,2023-05-20,2023-05-23,Express,C120,Tanvi Choudhary,East,Toys & Games,Chess Set,3,39.72,10,119.16,11.92,107.24,UPI,No,2,May,5,2023,2023Q2,3,0
+10229,2024-01-21,2024-01-24,Express,C111,Siddharth Rao,North,Books,NLP with Python,4,31.66,5,126.64,6.33,120.31,Cash on Delivery,No,4,January,1,2024,2024Q1,3,0
+10230,2024-04-17,2024-04-23,Same Day,C101,Aarav Sharma,North,Clothing,Chinos Pants,2,139.67,20,279.34,55.87,223.47,Net Banking,No,3,April,4,2024,2024Q2,6,0
+10231,2024-11-05,2024-11-07,Standard,C109,Arjun Kumar,West,Sports,Foam Roller,3,29.61,5,88.83,4.44,84.39,Cash on Delivery,No,4,November,11,2024,2024Q4,2,0
+10232,2023-02-07,2023-02-14,Same Day,C118,Shreya Malhotra,North,Books,R for Data Science,5,36.03,10,180.15,18.02,162.13,Credit Card,No,5,February,2,2023,2023Q1,7,0
+10233,2023-02-15,2023-02-20,Express,C120,Tanvi Choudhary,West,Toys & Games,Puzzle 1000pc,3,64.32,0,192.96,0.0,192.96,Credit Card,No,4,February,2,2023,2023Q1,5,0
+10234,2024-08-17,2024-08-23,Express,C118,Shreya Malhotra,West,Electronics,Wireless Mouse,5,65.1,20,325.5,65.1,260.4,Net Banking,No,4,August,8,2024,2024Q3,6,0
+10235,2023-01-26,2023-01-30,Standard,C112,Neha Tiwari,North,Toys & Games,Drawing Tablet,5,59.14,0,295.7,0.0,295.7,UPI,No,4,January,1,2023,2023Q1,4,0
+10236,2023-12-23,2023-12-27,Express,C116,Kavya Reddy,North,Home & Kitchen,Instant Pot,2,74.6,20,149.2,29.84,119.36,Debit Card,No,4,December,12,2023,2023Q4,4,0
+10237,2024-11-24,2024-12-01,Same Day,C104,Sneha Gupta,South,Electronics,Gaming Mouse,1,135.17,10,135.17,13.52,121.65,Cash on Delivery,No,2,November,11,2024,2024Q4,7,0
+10238,2024-10-06,2024-10-08,Express,C113,Manish Agarwal,North,Clothing,Denim Jacket,4,87.18,5,348.72,17.44,331.28,Cash on Delivery,No,4,October,10,2024,2024Q4,2,0
+10239,2023-07-30,2023-08-02,Same Day,C107,Karan Verma,North,Clothing,Sports Shorts,4,91.06,0,364.24,0.0,364.24,Cash on Delivery,No,1,July,7,2023,2023Q3,3,0
+10240,2024-11-17,2024-11-24,Same Day,C109,Arjun Kumar,West,Clothing,Denim Jacket,4,59.12,0,236.48,0.0,236.48,Cash on Delivery,No,3,November,11,2024,2024Q4,7,0
+10241,2023-06-26,2023-07-03,Same Day,C120,Tanvi Choudhary,Central,Books,R for Data Science,3,24.57,15,73.71,11.06,62.65,Credit Card,No,3,June,6,2023,2023Q2,7,0
+10242,2023-07-07,2023-07-10,Express,C104,Sneha Gupta,West,Sports,Dumbbell Set,2,47.88,5,95.76,4.79,90.97,Cash on Delivery,No,5,July,7,2023,2023Q3,3,0
+10243,2024-12-11,2024-12-17,Same Day,C118,Shreya Malhotra,South,Clothing,Chinos Pants,2,66.05,15,132.1,19.82,112.28,Net Banking,No,2,December,12,2024,2024Q4,6,0
+10244,2023-01-10,2023-01-14,Same Day,C112,Neha Tiwari,Central,Home & Kitchen,Blender,4,54.32,0,217.28,0.0,217.28,Net Banking,No,4,January,1,2023,2023Q1,4,0
+10245,2023-03-26,2023-03-31,Express,C106,Ananya Singh,North,Books,Big Data Analytics,4,39.67,15,158.68,23.8,134.88,Debit Card,Yes,1,March,3,2023,2023Q1,5,1
+10246,2024-06-07,2024-06-08,Same Day,C118,Shreya Malhotra,East,Clothing,Polo T-Shirts,4,54.64,15,218.56,32.78,185.78,Cash on Delivery,No,3,June,6,2024,2024Q2,1,0
+10247,2024-03-11,2024-03-12,Express,C107,Karan Verma,North,Toys & Games,Rubik's Cube,4,18.12,20,72.48,14.5,57.98,Net Banking,No,2,March,3,2024,2024Q1,1,0
+10248,2023-08-31,2023-09-02,Same Day,C104,Sneha Gupta,East,Home & Kitchen,Electric Kettle,1,142.09,15,142.09,21.31,120.78,Cash on Delivery,No,5,August,8,2023,2023Q3,2,0
+10249,2023-03-02,2023-03-07,Same Day,C107,Karan Verma,Central,Sports,Protein Shaker,2,32.43,5,64.86,3.24,61.62,UPI,No,3,March,3,2023,2023Q1,5,0
+10250,2024-11-26,2024-12-03,Standard,C117,Rahul Pandey,East,Home & Kitchen,Juicer,5,68.04,5,340.2,17.01,323.19,UPI,No,4,November,11,2024,2024Q4,7,0
+10251,2024-11-23,2024-11-27,Same Day,C108,Divya Joshi,East,Sports,Swim Goggles,2,28.93,10,57.86,5.79,52.07,Net Banking,No,5,November,11,2024,2024Q4,4,0
+10252,2023-10-12,2023-10-18,Express,C117,Rahul Pandey,West,Books,Statistics for Data Science,1,23.02,10,23.02,2.3,20.72,Debit Card,No,3,October,10,2023,2023Q4,6,0
+10253,2023-03-06,2023-03-13,Express,C112,Neha Tiwari,South,Beauty,Skincare Set,1,62.79,15,62.79,9.42,53.37,Net Banking,No,2,March,3,2023,2023Q1,7,0
+10254,2023-05-14,2023-05-19,Same Day,C119,Nikhil Shah,North,Home & Kitchen,Electric Kettle,3,137.68,20,413.04,82.61,330.43,Credit Card,No,3,May,5,2023,2023Q2,5,0
+10255,2023-06-11,2023-06-15,Standard,C104,Sneha Gupta,South,Electronics,Ring Light,4,146.5,0,586.0,0.0,586.0,Debit Card,No,4,June,6,2023,2023Q2,4,0
+10256,2023-09-14,2023-09-15,Standard,C112,Neha Tiwari,West,Clothing,Leather Belt,3,131.93,0,395.79,0.0,395.79,Debit Card,No,2,September,9,2023,2023Q3,1,0
+10257,2023-01-02,2023-01-04,Same Day,C104,Sneha Gupta,South,Sports,Cricket Bat,4,94.3,0,377.2,0.0,377.2,Cash on Delivery,No,2,January,1,2023,2023Q1,2,0
+10258,2024-12-11,2024-12-13,Express,C114,Riya Desai,North,Sports,Foam Roller,3,15.98,0,47.94,0.0,47.94,Credit Card,No,2,December,12,2024,2024Q4,2,0
+10259,2023-05-17,2023-05-23,Standard,C113,Manish Agarwal,Central,Electronics,Noise Cancelling Headphones,3,81.97,0,245.91,0.0,245.91,Cash on Delivery,No,2,May,5,2023,2023Q2,6,0
+10260,2024-10-05,2024-10-11,Same Day,C107,Karan Verma,West,Electronics,External SSD,4,125.75,10,503.0,50.3,452.7,UPI,No,4,October,10,2024,2024Q4,6,0
+10261,2024-03-15,2024-03-18,Express,C112,Neha Tiwari,North,Electronics,Tablet Stand,1,40.57,10,40.57,4.06,36.51,UPI,No,2,March,3,2024,2024Q1,3,0
+10262,2024-11-05,2024-11-08,Same Day,C101,Aarav Sharma,South,Beauty,Lip Care Set,5,48.0,5,240.0,12.0,228.0,Net Banking,No,5,November,11,2024,2024Q4,3,0
+10263,2023-04-26,2023-04-28,Standard,C113,Manish Agarwal,Central,Home & Kitchen,Hand Mixer,2,37.09,15,74.18,11.13,63.05,Credit Card,No,5,April,4,2023,2023Q2,2,0
+10264,2024-07-13,2024-07-19,Standard,C112,Neha Tiwari,North,Home & Kitchen,Water Filter,4,71.14,10,284.56,28.46,256.1,Cash on Delivery,No,4,July,7,2024,2024Q3,6,0
+10265,2024-06-02,2024-06-05,Express,C113,Manish Agarwal,West,Electronics,Laptop,1,65.64,0,65.64,0.0,65.64,Net Banking,No,5,June,6,2024,2024Q2,3,0
+10266,2023-03-27,2023-03-30,Standard,C109,Arjun Kumar,Central,Electronics,Ring Light,5,108.17,0,540.85,0.0,540.85,Debit Card,Yes,1,March,3,2023,2023Q1,3,1
+10267,2023-09-02,2023-09-03,Standard,C114,Riya Desai,West,Books,R for Data Science,1,45.37,5,45.37,2.27,43.1,Cash on Delivery,No,4,September,9,2023,2023Q3,1,0
+10268,2024-12-25,2024-12-27,Express,C101,Aarav Sharma,East,Beauty,Skincare Set,2,32.01,0,64.02,0.0,64.02,Cash on Delivery,No,2,December,12,2024,2024Q4,2,0
+10269,2023-05-10,2023-05-16,Same Day,C112,Neha Tiwari,North,Beauty,Face Mask Pack,3,60.24,0,180.72,0.0,180.72,Credit Card,No,3,May,5,2023,2023Q2,6,0
+10270,2024-12-30,2025-01-04,Express,C109,Arjun Kumar,Central,Home & Kitchen,Non-stick Pan,5,85.81,0,429.05,0.0,429.05,Debit Card,No,4,December,12,2024,2024Q4,5,0
+10271,2023-09-19,2023-09-26,Same Day,C106,Ananya Singh,North,Electronics,Webcam HD,2,158.2,10,316.4,31.64,284.76,UPI,No,5,September,9,2023,2023Q3,7,0
+10272,2024-04-28,2024-05-01,Standard,C102,Priya Patel,North,Sports,Cycling Helmet,1,15.27,5,15.27,0.76,14.51,Cash on Delivery,No,2,April,4,2024,2024Q2,3,0
+10273,2023-09-12,2023-09-16,Express,C111,Siddharth Rao,North,Toys & Games,Dart Board,4,68.55,5,274.2,13.71,260.49,Cash on Delivery,No,3,September,9,2023,2023Q3,4,0
+10274,2024-06-12,2024-06-13,Express,C108,Divya Joshi,East,Home & Kitchen,Coffee Maker,1,95.27,0,95.27,0.0,95.27,Debit Card,No,1,June,6,2024,2024Q2,1,0
+10275,2023-10-26,2023-10-31,Standard,C107,Karan Verma,West,Home & Kitchen,Coffee Maker,1,101.9,10,101.9,10.19,91.71,Debit Card,No,5,October,10,2023,2023Q4,5,0
+10276,2023-06-04,2023-06-05,Standard,C108,Divya Joshi,Central,Beauty,Hair Care Pack,2,69.88,20,139.76,27.95,111.81,Debit Card,No,1,June,6,2023,2023Q2,1,0
+10277,2024-11-04,2024-11-08,Standard,C101,Aarav Sharma,South,Sports,Swim Goggles,1,87.81,10,87.81,8.78,79.03,Cash on Delivery,No,3,November,11,2024,2024Q4,4,0
+10278,2023-04-06,2023-04-07,Express,C109,Arjun Kumar,East,Clothing,Casual Sneakers,1,79.04,0,79.04,0.0,79.04,Net Banking,No,5,April,4,2023,2023Q2,1,0
+10279,2023-03-18,2023-03-23,Same Day,C113,Manish Agarwal,South,Sports,Resistance Bands,5,75.98,0,379.9,0.0,379.9,UPI,No,4,March,3,2023,2023Q1,5,0
+10280,2024-04-08,2024-04-11,Standard,C111,Siddharth Rao,Central,Home & Kitchen,Instant Pot,4,140.62,10,562.48,56.25,506.23,Credit Card,No,2,April,4,2024,2024Q2,3,0
+10281,2023-05-04,2023-05-09,Express,C114,Riya Desai,East,Clothing,Winter Jacket,4,39.72,10,158.88,15.89,142.99,Net Banking,No,2,May,5,2023,2023Q2,5,0
+10282,2023-02-11,2023-02-13,Standard,C120,Tanvi Choudhary,North,Home & Kitchen,Pressure Cooker,2,45.59,5,91.18,4.56,86.62,UPI,No,3,February,2,2023,2023Q1,2,0
+10283,2023-02-01,2023-02-05,Same Day,C106,Ananya Singh,Central,Home & Kitchen,Toaster Oven,3,96.75,5,290.25,14.51,275.74,UPI,No,5,February,2,2023,2023Q1,4,0
+10284,2023-03-05,2023-03-12,Standard,C101,Aarav Sharma,South,Electronics,Webcam HD,2,40.8,0,81.6,0.0,81.6,Net Banking,No,2,March,3,2023,2023Q1,7,0
+10285,2023-01-23,2023-01-24,Standard,C103,Rohan Mehta,North,Home & Kitchen,Hand Mixer,1,111.94,5,111.94,5.6,106.34,Debit Card,No,4,January,1,2023,2023Q1,1,0
+10286,2024-03-19,2024-03-26,Standard,C119,Nikhil Shah,West,Electronics,Laptop,1,171.05,0,171.05,0.0,171.05,Net Banking,No,4,March,3,2024,2024Q1,7,0
+10287,2024-04-01,2024-04-03,Same Day,C109,Arjun Kumar,South,Clothing,Denim Jacket,2,45.77,5,91.54,4.58,86.96,Debit Card,Yes,3,April,4,2024,2024Q2,2,1
+10288,2023-10-14,2023-10-18,Same Day,C103,Rohan Mehta,Central,Books,Cloud Computing Guide,4,55.31,0,221.24,0.0,221.24,UPI,No,2,October,10,2023,2023Q4,4,0
+10289,2024-05-06,2024-05-11,Same Day,C112,Neha Tiwari,Central,Sports,Football,1,72.08,10,72.08,7.21,64.87,Debit Card,No,3,May,5,2024,2024Q2,5,0
+10290,2023-10-15,2023-10-16,Same Day,C101,Aarav Sharma,East,Books,SQL for Beginners,3,27.19,5,81.57,4.08,77.49,Cash on Delivery,No,4,October,10,2023,2023Q4,1,0
+10291,2023-02-27,2023-03-06,Same Day,C118,Shreya Malhotra,West,Clothing,Formal Shirt,2,32.02,5,64.04,3.2,60.84,Debit Card,No,2,February,2,2023,2023Q1,7,0
+10292,2024-08-28,2024-08-29,Same Day,C112,Neha Tiwari,Central,Toys & Games,Chess Set,2,28.03,10,56.06,5.61,50.45,UPI,No,3,August,8,2024,2024Q3,1,0
+10293,2023-06-29,2023-07-03,Standard,C110,Pooja Iyer,Central,Beauty,Face Serum,4,61.02,20,244.08,48.82,195.26,UPI,Yes,1,June,6,2023,2023Q2,4,1
+10294,2023-12-15,2023-12-21,Standard,C105,Vikram Nair,North,Electronics,Mechanical Keyboard,3,99.09,5,297.27,14.86,282.41,UPI,No,3,December,12,2023,2023Q4,6,0
+10295,2023-03-16,2023-03-19,Same Day,C112,Neha Tiwari,North,Beauty,Eye Cream,1,65.45,20,65.45,13.09,52.36,Debit Card,No,4,March,3,2023,2023Q1,3,0
+10296,2024-10-26,2024-10-29,Same Day,C116,Kavya Reddy,Central,Home & Kitchen,Electric Kettle,2,47.74,10,95.48,9.55,85.93,Debit Card,No,5,October,10,2024,2024Q4,3,0
+10297,2024-12-06,2024-12-09,Same Day,C110,Pooja Iyer,Central,Clothing,Maxi Dress,2,90.67,10,181.34,18.13,163.21,Net Banking,No,1,December,12,2024,2024Q4,3,0
+10298,2023-11-22,2023-11-29,Same Day,C120,Tanvi Choudhary,Central,Toys & Games,Rubik's Cube,1,87.39,0,87.39,0.0,87.39,Credit Card,No,2,November,11,2023,2023Q4,7,0
+10299,2023-11-24,2023-11-26,Same Day,C112,Neha Tiwari,East,Books,Python Cookbook,1,33.25,5,33.25,1.66,31.59,Net Banking,No,1,November,11,2023,2023Q4,2,0
+10300,2023-04-21,2023-04-27,Express,C109,Arjun Kumar,West,Electronics,Smart Watch,1,57.5,10,57.5,5.75,51.75,UPI,Yes,2,April,4,2023,2023Q2,6,1
+10301,2023-04-14,2023-04-21,Same Day,C113,Manish Agarwal,South,Books,Statistics for Data Science,3,55.27,20,165.81,33.16,132.65,UPI,No,5,April,4,2023,2023Q2,7,0
+10302,2023-11-23,2023-11-26,Express,C101,Aarav Sharma,South,Books,Machine Learning Guide,1,51.97,5,51.97,2.6,49.37,Net Banking,No,1,November,11,2023,2023Q4,3,0
+10303,2024-09-20,2024-09-24,Same Day,C120,Tanvi Choudhary,South,Clothing,Swim Shorts,1,29.0,10,29.0,2.9,26.1,Cash on Delivery,No,4,September,9,2024,2024Q3,4,0
+10304,2024-02-24,2024-03-01,Express,C107,Karan Verma,East,Books,Python Cookbook,3,22.14,5,66.42,3.32,63.1,Debit Card,No,5,February,2,2024,2024Q1,6,0
+10305,2023-06-07,2023-06-08,Standard,C116,Kavya Reddy,East,Clothing,Winter Jacket,5,25.96,20,129.8,25.96,103.84,Cash on Delivery,No,4,June,6,2023,2023Q2,1,0
+10306,2023-03-25,2023-03-29,Express,C110,Pooja Iyer,West,Books,Deep Learning Book,2,23.88,0,47.76,0.0,47.76,Net Banking,No,3,March,3,2023,2023Q1,4,0
+10307,2024-01-15,2024-01-19,Standard,C106,Ananya Singh,East,Sports,Water Bottle,5,24.57,10,122.85,12.29,110.56,Net Banking,No,4,January,1,2024,2024Q1,4,0
+10308,2024-12-14,2024-12-20,Same Day,C105,Vikram Nair,West,Books,SQL for Beginners,3,29.05,0,87.15,0.0,87.15,Cash on Delivery,No,3,December,12,2024,2024Q4,6,0
+10309,2024-07-02,2024-07-08,Same Day,C114,Riya Desai,South,Clothing,Polo T-Shirts,4,27.32,20,109.28,21.86,87.42,Net Banking,No,4,July,7,2024,2024Q3,6,0
+10310,2024-06-13,2024-06-20,Standard,C119,Nikhil Shah,North,Home & Kitchen,Coffee Maker,1,81.32,20,81.32,16.26,65.06,Net Banking,No,5,June,6,2024,2024Q2,7,0
+10311,2024-03-09,2024-03-10,Standard,C102,Priya Patel,South,Clothing,Formal Shirt,2,136.66,0,273.32,0.0,273.32,Cash on Delivery,No,4,March,3,2024,2024Q1,1,0
+10312,2024-07-23,2024-07-27,Same Day,C113,Manish Agarwal,West,Home & Kitchen,Electric Kettle,1,148.4,0,148.4,0.0,148.4,Credit Card,No,3,July,7,2024,2024Q3,4,0
+10313,2024-02-29,2024-03-02,Same Day,C104,Sneha Gupta,North,Toys & Games,Kite,5,61.73,10,308.65,30.86,277.79,Credit Card,No,5,February,2,2024,2024Q1,2,0
+10314,2024-02-25,2024-02-28,Same Day,C112,Neha Tiwari,Central,Beauty,Face Mask Pack,3,20.55,20,61.65,12.33,49.32,Net Banking,No,4,February,2,2024,2024Q1,3,0
+10315,2024-02-10,2024-02-13,Same Day,C102,Priya Patel,West,Electronics,Bluetooth Speaker,2,67.69,10,135.38,13.54,121.84,Debit Card,No,1,February,2,2024,2024Q1,3,0
+10316,2024-05-18,2024-05-25,Standard,C109,Arjun Kumar,South,Home & Kitchen,Air Fryer,3,73.92,5,221.76,11.09,210.67,Debit Card,No,1,May,5,2024,2024Q2,7,0
+10317,2024-09-11,2024-09-17,Standard,C114,Riya Desai,West,Sports,Foam Roller,3,96.27,5,288.81,14.44,274.37,Net Banking,No,4,September,9,2024,2024Q3,6,0
+10318,2023-03-09,2023-03-12,Standard,C106,Ananya Singh,Central,Toys & Games,Magnetic Tiles,1,80.04,20,80.04,16.01,64.03,Cash on Delivery,No,4,March,3,2023,2023Q1,3,0
+10319,2023-02-03,2023-02-07,Same Day,C108,Divya Joshi,South,Electronics,Bluetooth Speaker,2,54.88,0,109.76,0.0,109.76,Debit Card,Yes,2,February,2,2023,2023Q1,4,1
+10320,2023-09-05,2023-09-08,Standard,C101,Aarav Sharma,West,Home & Kitchen,Pressure Cooker,4,90.35,0,361.4,0.0,361.4,Cash on Delivery,No,4,September,9,2023,2023Q3,3,0
+10321,2023-01-29,2023-02-02,Standard,C110,Pooja Iyer,South,Beauty,Nail Care Set,3,33.93,0,101.79,0.0,101.79,UPI,Yes,3,January,1,2023,2023Q1,4,1
+10322,2024-11-29,2024-11-30,Same Day,C101,Aarav Sharma,South,Sports,Jump Rope,4,43.25,20,173.0,34.6,138.4,Cash on Delivery,No,2,November,11,2024,2024Q4,1,0
+10323,2024-03-09,2024-03-13,Express,C109,Arjun Kumar,South,Toys & Games,LEGO Classic Set,5,31.78,5,158.9,7.95,150.95,Net Banking,No,4,March,3,2024,2024Q1,4,0
+10324,2023-04-15,2023-04-16,Same Day,C119,Nikhil Shah,Central,Home & Kitchen,Hand Mixer,5,97.68,10,488.4,48.84,439.56,Cash on Delivery,No,3,April,4,2023,2023Q2,1,0
+10325,2023-10-11,2023-10-17,Express,C111,Siddharth Rao,East,Home & Kitchen,Instant Pot,4,118.97,0,475.88,0.0,475.88,UPI,No,3,October,10,2023,2023Q4,6,0
+10326,2024-11-28,2024-11-30,Express,C111,Siddharth Rao,East,Clothing,Polo T-Shirts,1,111.86,10,111.86,11.19,100.67,Net Banking,No,4,November,11,2024,2024Q4,2,0
+10327,2023-08-16,2023-08-22,Same Day,C111,Siddharth Rao,East,Books,Cloud Computing Guide,5,49.47,5,247.35,12.37,234.98,Cash on Delivery,No,4,August,8,2023,2023Q3,6,0
+10328,2023-04-10,2023-04-14,Same Day,C110,Pooja Iyer,Central,Home & Kitchen,Pressure Cooker,5,52.1,0,260.5,0.0,260.5,UPI,No,3,April,4,2023,2023Q2,4,0
+10329,2023-08-17,2023-08-23,Express,C112,Neha Tiwari,East,Sports,Knee Support,1,50.24,5,50.24,2.51,47.73,Debit Card,No,4,August,8,2023,2023Q3,6,0
+10330,2024-10-11,2024-10-16,Standard,C102,Priya Patel,West,Beauty,Sunscreen SPF50,1,40.51,15,40.51,6.08,34.43,UPI,No,5,October,10,2024,2024Q4,5,0
+10331,2024-02-28,2024-02-29,Standard,C110,Pooja Iyer,South,Beauty,Perfume Gift Set,4,62.71,20,250.84,50.17,200.67,Debit Card,No,2,February,2,2024,2024Q1,1,0
+10332,2023-07-04,2023-07-11,Same Day,C111,Siddharth Rao,South,Books,R for Data Science,4,55.71,0,222.84,0.0,222.84,Debit Card,No,3,July,7,2023,2023Q3,7,0
+10333,2024-08-13,2024-08-20,Standard,C106,Ananya Singh,Central,Sports,Yoga Mat,3,15.49,5,46.47,2.32,44.15,Net Banking,No,1,August,8,2024,2024Q3,7,0
+10334,2023-02-08,2023-02-13,Standard,C101,Aarav Sharma,East,Sports,Protein Shaker,4,57.36,10,229.44,22.94,206.5,Cash on Delivery,No,3,February,2,2023,2023Q1,5,0
+10335,2023-11-16,2023-11-18,Same Day,C112,Neha Tiwari,East,Clothing,Running Shoes,2,101.21,5,202.42,10.12,192.3,UPI,No,5,November,11,2023,2023Q4,2,0
+10336,2024-09-02,2024-09-07,Express,C117,Rahul Pandey,West,Electronics,Monitor Light Bar,3,32.09,15,96.27,14.44,81.83,Debit Card,No,2,September,9,2024,2024Q3,5,0
+10337,2023-08-18,2023-08-24,Same Day,C108,Divya Joshi,North,Toys & Games,Puzzle 1000pc,4,27.37,0,109.48,0.0,109.48,Cash on Delivery,No,2,August,8,2023,2023Q3,6,0
+10338,2024-07-01,2024-07-06,Same Day,C109,Arjun Kumar,North,Beauty,Moisturizer Cream,1,21.77,10,21.77,2.18,19.59,Credit Card,Yes,1,July,7,2024,2024Q3,5,1
+10339,2024-07-14,2024-07-17,Standard,C104,Sneha Gupta,North,Electronics,Smart Bulb Set,4,42.95,10,171.8,17.18,154.62,Debit Card,No,2,July,7,2024,2024Q3,3,0
+10340,2024-09-12,2024-09-18,Same Day,C120,Tanvi Choudhary,Central,Books,Big Data Analytics,5,24.04,5,120.2,6.01,114.19,Credit Card,No,1,September,9,2024,2024Q3,6,0
+10341,2023-07-24,2023-07-31,Standard,C120,Tanvi Choudhary,East,Home & Kitchen,Coffee Maker,4,132.02,5,528.08,26.4,501.68,Net Banking,No,5,July,7,2023,2023Q3,7,0
+10342,2023-12-05,2023-12-07,Standard,C116,Kavya Reddy,North,Home & Kitchen,Blender,4,35.12,5,140.48,7.02,133.46,Cash on Delivery,Yes,3,December,12,2023,2023Q4,2,1
+10343,2023-04-14,2023-04-17,Express,C103,Rohan Mehta,East,Sports,Foam Roller,1,30.66,20,30.66,6.13,24.53,Net Banking,No,4,April,4,2023,2023Q2,3,0
+10344,2024-11-24,2024-11-27,Standard,C112,Neha Tiwari,North,Electronics,Wireless Mouse,1,151.04,5,151.04,7.55,143.49,Credit Card,No,1,November,11,2024,2024Q4,3,0
+10345,2024-03-24,2024-03-29,Express,C112,Neha Tiwari,East,Toys & Games,Board Game,2,64.75,10,129.5,12.95,116.55,UPI,No,1,March,3,2024,2024Q1,5,0
+10346,2024-12-07,2024-12-14,Same Day,C113,Manish Agarwal,South,Electronics,Portable Charger,4,87.04,5,348.16,17.41,330.75,Credit Card,No,4,December,12,2024,2024Q4,7,0
+10347,2024-08-27,2024-08-31,Standard,C114,Riya Desai,Central,Clothing,Swim Shorts,2,107.17,0,214.34,0.0,214.34,Net Banking,No,4,August,8,2024,2024Q3,4,0
+10348,2023-04-26,2023-04-30,Express,C116,Kavya Reddy,East,Toys & Games,Doll House,2,60.85,15,121.7,18.25,103.45,Credit Card,No,1,April,4,2023,2023Q2,4,0
+10349,2024-06-15,2024-06-20,Standard,C111,Siddharth Rao,West,Sports,Swim Goggles,5,86.18,5,430.9,21.55,409.35,UPI,No,5,June,6,2024,2024Q2,5,0
+10350,2024-09-19,2024-09-20,Same Day,C118,Shreya Malhotra,West,Books,NLP with Python,4,46.55,0,186.2,0.0,186.2,Net Banking,Yes,1,September,9,2024,2024Q3,1,1
+10351,2023-12-05,2023-12-08,Same Day,C108,Divya Joshi,West,Toys & Games,Board Game,4,20.61,10,82.44,8.24,74.2,Net Banking,Yes,1,December,12,2023,2023Q4,3,1
+10352,2024-05-25,2024-05-29,Same Day,C103,Rohan Mehta,North,Toys & Games,Puzzle 1000pc,4,20.91,15,83.64,12.55,71.09,Credit Card,No,4,May,5,2024,2024Q2,4,0
+10353,2024-09-10,2024-09-15,Same Day,C103,Rohan Mehta,South,Books,Cloud Computing Guide,5,21.43,0,107.15,0.0,107.15,Net Banking,No,5,September,9,2024,2024Q3,5,0
+10354,2024-07-27,2024-08-03,Same Day,C111,Siddharth Rao,East,Home & Kitchen,Electric Kettle,2,137.29,15,274.58,41.19,233.39,Net Banking,No,4,July,7,2024,2024Q3,7,0
+10355,2023-12-30,2024-01-06,Same Day,C111,Siddharth Rao,Central,Electronics,Wireless Mouse,2,142.69,0,285.38,0.0,285.38,Debit Card,No,3,December,12,2023,2023Q4,7,0
+10356,2024-02-24,2024-02-25,Standard,C105,Vikram Nair,North,Sports,Resistance Bands,2,19.81,15,39.62,5.94,33.68,Net Banking,No,2,February,2,2024,2024Q1,1,0
+10357,2024-02-29,2024-03-01,Standard,C104,Sneha Gupta,West,Clothing,Sports Shorts,2,118.95,10,237.9,23.79,214.11,Net Banking,No,5,February,2,2024,2024Q1,1,0
+10358,2024-06-27,2024-07-03,Same Day,C101,Aarav Sharma,West,Sports,Running Armband,2,115.4,15,230.8,34.62,196.18,Cash on Delivery,Yes,2,June,6,2024,2024Q2,6,1
+10359,2023-04-17,2023-04-21,Express,C105,Vikram Nair,Central,Toys & Games,Dart Board,5,83.26,0,416.3,0.0,416.3,Net Banking,No,5,April,4,2023,2023Q2,4,0
+10360,2023-12-18,2023-12-21,Standard,C113,Manish Agarwal,West,Books,R for Data Science,2,56.64,5,113.28,5.66,107.62,Cash on Delivery,No,2,December,12,2023,2023Q4,3,0
+10361,2024-12-29,2025-01-04,Standard,C111,Siddharth Rao,South,Sports,Knee Support,3,93.58,20,280.74,56.15,224.59,Cash on Delivery,No,2,December,12,2024,2024Q4,6,0
+10362,2024-07-09,2024-07-15,Express,C117,Rahul Pandey,Central,Sports,Water Bottle,2,87.09,0,174.18,0.0,174.18,Net Banking,No,1,July,7,2024,2024Q3,6,0
+10363,2024-03-08,2024-03-15,Standard,C110,Pooja Iyer,West,Beauty,Lip Care Set,4,66.85,20,267.4,53.48,213.92,UPI,Yes,1,March,3,2024,2024Q1,7,1
+10364,2024-11-30,2024-12-03,Same Day,C110,Pooja Iyer,East,Electronics,Ring Light,3,33.77,0,101.31,0.0,101.31,UPI,No,1,November,11,2024,2024Q4,3,0
+10365,2024-11-22,2024-11-28,Same Day,C120,Tanvi Choudhary,Central,Toys & Games,Magnetic Tiles,4,17.42,0,69.68,0.0,69.68,Net Banking,No,2,November,11,2024,2024Q4,6,0
+10366,2024-02-01,2024-02-05,Same Day,C113,Manish Agarwal,North,Clothing,Polo T-Shirts,3,114.12,0,342.36,0.0,342.36,Credit Card,No,3,February,2,2024,2024Q1,4,0
+10367,2024-08-25,2024-08-30,Same Day,C112,Neha Tiwari,South,Sports,Water Bottle,4,36.32,5,145.28,7.26,138.02,Debit Card,No,2,August,8,2024,2024Q3,5,0
+10368,2024-06-10,2024-06-11,Express,C106,Ananya Singh,Central,Books,Python Cookbook,1,59.34,0,59.34,0.0,59.34,Debit Card,No,4,June,6,2024,2024Q2,1,0
+10369,2024-04-22,2024-04-28,Standard,C111,Siddharth Rao,East,Clothing,Formal Shirt,3,90.08,0,270.24,0.0,270.24,Cash on Delivery,No,1,April,4,2024,2024Q2,6,0
+10370,2024-08-09,2024-08-14,Same Day,C116,Kavya Reddy,South,Electronics,Gaming Mouse,5,169.52,5,847.6,42.38,805.22,UPI,No,3,August,8,2024,2024Q3,5,0
+10371,2024-07-03,2024-07-07,Standard,C118,Shreya Malhotra,East,Beauty,Perfume Gift Set,2,58.24,10,116.48,11.65,104.83,Debit Card,No,2,July,7,2024,2024Q3,4,0
+10372,2024-07-28,2024-08-04,Standard,C116,Kavya Reddy,East,Home & Kitchen,Instant Pot,5,58.4,20,292.0,58.4,233.6,Net Banking,No,1,July,7,2024,2024Q3,7,0
+10373,2024-11-29,2024-12-02,Express,C102,Priya Patel,East,Clothing,Ankle Boots,5,97.07,5,485.35,24.27,461.08,Cash on Delivery,No,1,November,11,2024,2024Q4,3,0
+10374,2024-06-04,2024-06-08,Same Day,C117,Rahul Pandey,South,Sports,Water Bottle,5,17.59,10,87.95,8.79,79.16,Debit Card,No,3,June,6,2024,2024Q2,4,0
+10375,2023-01-08,2023-01-14,Same Day,C118,Shreya Malhotra,South,Beauty,Perfume Gift Set,2,67.15,20,134.3,26.86,107.44,Net Banking,Yes,3,January,1,2023,2023Q1,6,1
+10376,2023-01-25,2023-01-29,Standard,C105,Vikram Nair,North,Toys & Games,Remote Control Car,4,30.42,0,121.68,0.0,121.68,Credit Card,No,1,January,1,2023,2023Q1,4,0
+10377,2024-02-22,2024-02-26,Express,C109,Arjun Kumar,East,Clothing,Hoodie,1,50.23,5,50.23,2.51,47.72,Credit Card,No,4,February,2,2024,2024Q1,4,0
+10378,2023-02-16,2023-02-22,Same Day,C119,Nikhil Shah,North,Books,Big Data Analytics,1,24.73,0,24.73,0.0,24.73,Debit Card,No,3,February,2,2023,2023Q1,6,0
+10379,2024-01-26,2024-01-30,Express,C115,Aditya Bose,South,Toys & Games,Drawing Tablet,1,37.6,5,37.6,1.88,35.72,Cash on Delivery,No,1,January,1,2024,2024Q1,4,0
+10380,2023-11-02,2023-11-08,Standard,C105,Vikram Nair,Central,Clothing,Formal Shirt,5,109.61,5,548.05,27.4,520.65,Cash on Delivery,No,3,November,11,2023,2023Q4,6,0
+10381,2024-07-14,2024-07-15,Standard,C118,Shreya Malhotra,West,Clothing,Winter Jacket,5,25.01,10,125.05,12.51,112.54,Cash on Delivery,No,3,July,7,2024,2024Q3,1,0
+10382,2023-04-28,2023-04-30,Standard,C107,Karan Verma,Central,Clothing,Formal Shirt,5,42.08,5,210.4,10.52,199.88,Net Banking,No,5,April,4,2023,2023Q2,2,0
+10383,2023-07-22,2023-07-28,Express,C104,Sneha Gupta,South,Sports,Cycling Helmet,1,22.68,5,22.68,1.13,21.55,UPI,No,3,July,7,2023,2023Q3,6,0
+10384,2024-04-06,2024-04-09,Same Day,C116,Kavya Reddy,Central,Electronics,Smart Watch,2,121.02,10,242.04,24.2,217.84,UPI,No,3,April,4,2024,2024Q2,3,0
+10385,2023-01-05,2023-01-08,Same Day,C106,Ananya Singh,West,Beauty,Lip Care Set,3,35.05,10,105.15,10.52,94.63,Debit Card,No,2,January,1,2023,2023Q1,3,0
+10386,2024-04-01,2024-04-04,Same Day,C115,Aditya Bose,North,Toys & Games,Doll House,3,25.07,15,75.21,11.28,63.93,UPI,No,4,April,4,2024,2024Q2,3,0
+10387,2023-07-21,2023-07-24,Same Day,C118,Shreya Malhotra,North,Sports,Running Armband,3,23.61,0,70.83,0.0,70.83,Credit Card,No,1,July,7,2023,2023Q3,3,0
+10388,2023-08-06,2023-08-07,Same Day,C119,Nikhil Shah,West,Toys & Games,Magnetic Tiles,5,62.37,10,311.85,31.18,280.67,UPI,No,5,August,8,2023,2023Q3,1,0
+10389,2024-04-20,2024-04-25,Express,C105,Vikram Nair,Central,Home & Kitchen,Toaster Oven,5,59.03,5,295.15,14.76,280.39,Credit Card,No,4,April,4,2024,2024Q2,5,0
+10390,2023-05-24,2023-05-28,Same Day,C117,Rahul Pandey,South,Sports,Jump Rope,5,104.04,0,520.2,0.0,520.2,Net Banking,No,5,May,5,2023,2023Q2,4,0
+10391,2023-09-28,2023-10-01,Same Day,C103,Rohan Mehta,East,Home & Kitchen,Air Fryer,4,58.45,5,233.8,11.69,222.11,Net Banking,No,2,September,9,2023,2023Q3,3,0
+10392,2023-04-16,2023-04-22,Same Day,C111,Siddharth Rao,East,Books,Clean Code,1,38.19,0,38.19,0.0,38.19,Cash on Delivery,No,3,April,4,2023,2023Q2,6,0
+10393,2024-10-31,2024-11-07,Express,C119,Nikhil Shah,South,Beauty,Lip Care Set,4,24.56,10,98.24,9.82,88.42,Cash on Delivery,Yes,2,October,10,2024,2024Q4,7,1
+10394,2024-09-10,2024-09-11,Express,C116,Kavya Reddy,South,Books,NLP with Python,3,52.69,15,158.07,23.71,134.36,UPI,No,2,September,9,2024,2024Q3,1,0
+10395,2023-06-11,2023-06-14,Same Day,C106,Ananya Singh,South,Electronics,Mechanical Keyboard,2,124.74,0,249.48,0.0,249.48,Net Banking,No,1,June,6,2023,2023Q2,3,0
+10396,2023-08-04,2023-08-09,Standard,C116,Kavya Reddy,South,Toys & Games,Doll House,4,69.02,15,276.08,41.41,234.67,Credit Card,No,4,August,8,2023,2023Q3,5,0
+10397,2024-08-09,2024-08-11,Standard,C102,Priya Patel,Central,Clothing,Chinos Pants,2,91.08,20,182.16,36.43,145.73,Net Banking,Yes,2,August,8,2024,2024Q3,2,1
+10398,2024-04-04,2024-04-09,Standard,C107,Karan Verma,South,Beauty,Lip Care Set,3,50.07,0,150.21,0.0,150.21,Net Banking,No,4,April,4,2024,2024Q2,5,0
+10399,2023-06-21,2023-06-27,Same Day,C109,Arjun Kumar,Central,Beauty,Moisturizer Cream,2,58.7,20,117.4,23.48,93.92,Credit Card,No,4,June,6,2023,2023Q2,6,0
+10400,2024-06-19,2024-06-26,Standard,C107,Karan Verma,Central,Clothing,Casual Sneakers,1,66.26,0,66.26,0.0,66.26,Credit Card,No,4,June,6,2024,2024Q2,7,0
+10401,2024-05-30,2024-06-06,Same Day,C118,Shreya Malhotra,South,Clothing,Sports Shorts,5,128.19,0,640.95,0.0,640.95,Cash on Delivery,No,4,May,5,2024,2024Q2,7,0
+10402,2024-01-15,2024-01-22,Express,C114,Riya Desai,South,Beauty,Toner Mist,4,15.07,20,60.28,12.06,48.22,Net Banking,Yes,3,January,1,2024,2024Q1,7,1
+10403,2023-05-18,2023-05-21,Standard,C114,Riya Desai,East,Toys & Games,Rubik's Cube,5,43.59,0,217.95,0.0,217.95,Cash on Delivery,No,2,May,5,2023,2023Q2,3,0
+10404,2024-06-19,2024-06-20,Same Day,C119,Nikhil Shah,South,Beauty,Shaving Kit,1,29.18,0,29.18,0.0,29.18,Debit Card,No,4,June,6,2024,2024Q2,1,0
+10405,2024-07-02,2024-07-06,Express,C109,Arjun Kumar,West,Books,NLP with Python,4,24.26,5,97.04,4.85,92.19,UPI,No,5,July,7,2024,2024Q3,4,0
+10406,2024-07-26,2024-07-31,Same Day,C112,Neha Tiwari,East,Books,Visualization with Python,4,51.35,0,205.4,0.0,205.4,Net Banking,No,3,July,7,2024,2024Q3,5,0
+10407,2024-12-17,2024-12-19,Express,C115,Aditya Bose,East,Sports,Dumbbell Set,1,104.77,5,104.77,5.24,99.53,Cash on Delivery,No,5,December,12,2024,2024Q4,2,0
+10408,2024-10-13,2024-10-14,Express,C113,Manish Agarwal,Central,Beauty,Eye Cream,1,52.65,0,52.65,0.0,52.65,Net Banking,No,2,October,10,2024,2024Q4,1,0
+10409,2023-02-08,2023-02-14,Same Day,C120,Tanvi Choudhary,Central,Electronics,Wireless Mouse,3,65.78,0,197.34,0.0,197.34,Debit Card,No,4,February,2,2023,2023Q1,6,0
+10410,2023-01-11,2023-01-13,Express,C115,Aditya Bose,South,Sports,Running Armband,2,21.03,15,42.06,6.31,35.75,Credit Card,No,5,January,1,2023,2023Q1,2,0
+10411,2024-01-04,2024-01-06,Standard,C102,Priya Patel,East,Toys & Games,Wooden Blocks,2,53.29,0,106.58,0.0,106.58,Net Banking,No,2,January,1,2024,2024Q1,2,0
+10412,2023-01-16,2023-01-22,Same Day,C117,Rahul Pandey,East,Home & Kitchen,Hand Mixer,5,81.37,5,406.85,20.34,386.51,Cash on Delivery,No,1,January,1,2023,2023Q1,6,0
+10413,2023-07-19,2023-07-23,Standard,C120,Tanvi Choudhary,East,Beauty,Nail Care Set,3,34.11,5,102.33,5.12,97.21,UPI,No,5,July,7,2023,2023Q3,4,0
+10414,2023-12-15,2023-12-16,Same Day,C110,Pooja Iyer,Central,Books,Visualization with Python,1,24.26,20,24.26,4.85,19.41,Debit Card,No,3,December,12,2023,2023Q4,1,0
+10415,2023-12-14,2023-12-21,Same Day,C108,Divya Joshi,North,Sports,Foam Roller,5,116.44,15,582.2,87.33,494.87,Net Banking,No,4,December,12,2023,2023Q4,7,0
+10416,2024-02-27,2024-03-01,Same Day,C111,Siddharth Rao,East,Electronics,Smart Watch,2,35.47,5,70.94,3.55,67.39,UPI,No,1,February,2,2024,2024Q1,3,0
+10417,2023-07-02,2023-07-06,Same Day,C118,Shreya Malhotra,East,Home & Kitchen,Coffee Maker,3,81.86,0,245.58,0.0,245.58,UPI,No,2,July,7,2023,2023Q3,4,0
+10418,2023-08-29,2023-09-04,Standard,C107,Karan Verma,South,Sports,Badminton Set,2,112.68,15,225.36,33.8,191.56,UPI,No,3,August,8,2023,2023Q3,6,0
+10419,2023-05-03,2023-05-04,Same Day,C104,Sneha Gupta,North,Toys & Games,Puzzle 1000pc,3,77.73,0,233.19,0.0,233.19,Cash on Delivery,No,4,May,5,2023,2023Q2,1,0
+10420,2024-08-11,2024-08-18,Same Day,C116,Kavya Reddy,East,Electronics,Monitor Light Bar,5,99.76,10,498.8,49.88,448.92,Net Banking,No,2,August,8,2024,2024Q3,7,0
+10421,2024-05-04,2024-05-09,Express,C114,Riya Desai,South,Clothing,Hoodie,1,89.2,20,89.2,17.84,71.36,Net Banking,Yes,2,May,5,2024,2024Q2,5,1
+10422,2024-11-21,2024-11-23,Express,C101,Aarav Sharma,East,Electronics,Smart Bulb Set,3,105.32,0,315.96,0.0,315.96,Cash on Delivery,No,1,November,11,2024,2024Q4,2,0
+10423,2024-04-27,2024-05-02,Express,C109,Arjun Kumar,West,Toys & Games,Action Figure,3,29.04,5,87.12,4.36,82.76,UPI,No,2,April,4,2024,2024Q2,5,0
+10424,2024-04-06,2024-04-08,Same Day,C109,Arjun Kumar,South,Books,AI Ethics,3,50.09,10,150.27,15.03,135.24,Credit Card,No,5,April,4,2024,2024Q2,2,0
+10425,2023-07-20,2023-07-22,Express,C113,Manish Agarwal,North,Sports,Water Bottle,5,99.43,10,497.15,49.72,447.43,UPI,No,2,July,7,2023,2023Q3,2,0
+10426,2024-05-13,2024-05-16,Standard,C111,Siddharth Rao,West,Books,Statistics for Data Science,5,25.38,20,126.9,25.38,101.52,Credit Card,No,5,May,5,2024,2024Q2,3,0
+10427,2024-04-05,2024-04-11,Express,C104,Sneha Gupta,Central,Sports,Dumbbell Set,3,21.3,15,63.9,9.59,54.31,Cash on Delivery,No,3,April,4,2024,2024Q2,6,0
+10428,2024-11-26,2024-12-01,Same Day,C112,Neha Tiwari,Central,Toys & Games,Action Figure,4,40.81,0,163.24,0.0,163.24,UPI,No,5,November,11,2024,2024Q4,5,0
+10429,2023-03-22,2023-03-26,Same Day,C115,Aditya Bose,South,Toys & Games,Action Figure,5,41.63,15,208.15,31.22,176.93,UPI,No,4,March,3,2023,2023Q1,4,0
+10430,2023-03-23,2023-03-25,Express,C103,Rohan Mehta,East,Sports,Football,4,112.5,10,450.0,45.0,405.0,Debit Card,No,3,March,3,2023,2023Q1,2,0
+10431,2024-06-17,2024-06-21,Standard,C119,Nikhil Shah,South,Beauty,Body Lotion,4,36.75,10,147.0,14.7,132.3,UPI,No,2,June,6,2024,2024Q2,4,0
+10432,2024-02-11,2024-02-12,Same Day,C106,Ananya Singh,North,Sports,Water Bottle,1,113.75,5,113.75,5.69,108.06,Credit Card,No,4,February,2,2024,2024Q1,1,0
+10433,2024-09-24,2024-09-26,Express,C109,Arjun Kumar,South,Toys & Games,Science Kit,1,54.3,0,54.3,0.0,54.3,UPI,No,4,September,9,2024,2024Q3,2,0
+10434,2023-06-24,2023-06-25,Express,C117,Rahul Pandey,West,Sports,Water Bottle,2,61.53,0,123.06,0.0,123.06,Net Banking,Yes,2,June,6,2023,2023Q2,1,1
+10435,2024-12-15,2024-12-20,Express,C105,Vikram Nair,Central,Toys & Games,Magnetic Tiles,5,85.11,15,425.55,63.83,361.72,Net Banking,No,5,December,12,2024,2024Q4,5,0
+10436,2024-07-06,2024-07-08,Express,C116,Kavya Reddy,East,Beauty,Body Lotion,3,50.17,10,150.51,15.05,135.46,Net Banking,No,4,July,7,2024,2024Q3,2,0
+10437,2023-12-19,2023-12-22,Same Day,C105,Vikram Nair,West,Home & Kitchen,Blender,1,69.46,20,69.46,13.89,55.57,Net Banking,No,1,December,12,2023,2023Q4,3,0
+10438,2024-07-15,2024-07-18,Express,C101,Aarav Sharma,West,Home & Kitchen,Air Fryer,3,129.56,5,388.68,19.43,369.25,UPI,No,5,July,7,2024,2024Q3,3,0
+10439,2023-09-27,2023-09-28,Same Day,C108,Divya Joshi,Central,Clothing,Swim Shorts,4,108.45,10,433.8,43.38,390.42,Debit Card,No,2,September,9,2023,2023Q3,1,0
+10440,2023-03-12,2023-03-14,Same Day,C107,Karan Verma,West,Home & Kitchen,Hand Mixer,3,126.58,10,379.74,37.97,341.77,Cash on Delivery,No,1,March,3,2023,2023Q1,2,0
+10441,2023-01-20,2023-01-22,Standard,C111,Siddharth Rao,South,Books,SQL for Beginners,4,48.02,5,192.08,9.6,182.48,Credit Card,Yes,3,January,1,2023,2023Q1,2,1
+10442,2023-04-03,2023-04-05,Express,C108,Divya Joshi,West,Home & Kitchen,Instant Pot,4,46.26,0,185.04,0.0,185.04,Debit Card,Yes,1,April,4,2023,2023Q2,2,1
+10443,2023-12-05,2023-12-06,Standard,C102,Priya Patel,East,Toys & Games,Rubik's Cube,3,52.38,15,157.14,23.57,133.57,Net Banking,No,2,December,12,2023,2023Q4,1,0
+10444,2023-01-13,2023-01-14,Express,C113,Manish Agarwal,West,Electronics,Mechanical Keyboard,2,97.87,5,195.74,9.79,185.95,UPI,No,2,January,1,2023,2023Q1,1,0
+10445,2024-04-29,2024-05-03,Express,C107,Karan Verma,South,Sports,Yoga Mat,1,35.91,20,35.91,7.18,28.73,Credit Card,No,3,April,4,2024,2024Q2,4,0
+10446,2024-10-15,2024-10-18,Same Day,C116,Kavya Reddy,South,Sports,Knee Support,1,72.71,5,72.71,3.64,69.07,Credit Card,No,1,October,10,2024,2024Q4,3,0
+10447,2024-08-21,2024-08-22,Standard,C109,Arjun Kumar,North,Clothing,Maxi Dress,1,72.1,0,72.1,0.0,72.1,Cash on Delivery,No,2,August,8,2024,2024Q3,1,0
+10448,2023-04-02,2023-04-04,Same Day,C112,Neha Tiwari,Central,Toys & Games,Kite,5,50.65,0,253.25,0.0,253.25,Debit Card,No,1,April,4,2023,2023Q2,2,0
+10449,2023-04-20,2023-04-22,Same Day,C118,Shreya Malhotra,East,Toys & Games,Drawing Tablet,3,19.5,0,58.5,0.0,58.5,Net Banking,No,3,April,4,2023,2023Q2,2,0
+10450,2023-09-14,2023-09-15,Same Day,C105,Vikram Nair,East,Sports,Jump Rope,4,17.24,10,68.96,6.9,62.06,Cash on Delivery,No,4,September,9,2023,2023Q3,1,0
+10451,2023-11-28,2023-12-04,Same Day,C112,Neha Tiwari,South,Sports,Foam Roller,2,34.93,20,69.86,13.97,55.89,Credit Card,No,5,November,11,2023,2023Q4,6,0
+10452,2024-04-09,2024-04-10,Express,C112,Neha Tiwari,South,Beauty,Moisturizer Cream,3,39.72,20,119.16,23.83,95.33,Credit Card,No,5,April,4,2024,2024Q2,1,0
+10453,2023-03-06,2023-03-12,Standard,C111,Siddharth Rao,Central,Beauty,Toner Mist,5,35.02,5,175.1,8.76,166.34,Net Banking,No,4,March,3,2023,2023Q1,6,0
+10454,2024-10-18,2024-10-21,Same Day,C114,Riya Desai,North,Toys & Games,Magnetic Tiles,3,26.56,10,79.68,7.97,71.71,Credit Card,No,5,October,10,2024,2024Q4,3,0
+10455,2024-05-12,2024-05-14,Same Day,C104,Sneha Gupta,West,Toys & Games,Board Game,1,28.4,5,28.4,1.42,26.98,Net Banking,No,5,May,5,2024,2024Q2,2,0
+10456,2023-08-15,2023-08-20,Standard,C112,Neha Tiwari,West,Beauty,Lip Care Set,3,53.57,0,160.71,0.0,160.71,Credit Card,No,1,August,8,2023,2023Q3,5,0
+10457,2024-01-13,2024-01-20,Express,C114,Riya Desai,Central,Books,Pandas for Analysts,3,45.56,20,136.68,27.34,109.34,Credit Card,No,5,January,1,2024,2024Q1,7,0
+10458,2023-04-10,2023-04-11,Express,C117,Rahul Pandey,South,Sports,Resistance Bands,1,102.62,5,102.62,5.13,97.49,UPI,No,5,April,4,2023,2023Q2,1,0
+10459,2024-03-01,2024-03-07,Express,C118,Shreya Malhotra,West,Beauty,Body Lotion,2,28.68,20,57.36,11.47,45.89,Net Banking,No,5,March,3,2024,2024Q1,6,0
+10460,2023-12-12,2023-12-18,Express,C117,Rahul Pandey,East,Electronics,Bluetooth Speaker,5,147.83,10,739.15,73.92,665.23,Debit Card,No,5,December,12,2023,2023Q4,6,0
+10461,2024-09-15,2024-09-17,Express,C111,Siddharth Rao,Central,Beauty,Nail Care Set,4,61.47,10,245.88,24.59,221.29,Debit Card,No,2,September,9,2024,2024Q3,2,0
+10462,2023-10-19,2023-10-24,Express,C102,Priya Patel,North,Home & Kitchen,Vacuum Cleaner,4,88.17,0,352.68,0.0,352.68,Debit Card,Yes,1,October,10,2023,2023Q4,5,1
+10463,2024-06-07,2024-06-12,Standard,C118,Shreya Malhotra,North,Clothing,Yoga Pants,1,122.69,5,122.69,6.13,116.56,Credit Card,No,5,June,6,2024,2024Q2,5,0
+10464,2023-09-13,2023-09-15,Standard,C119,Nikhil Shah,Central,Books,NLP with Python,3,26.24,10,78.72,7.87,70.85,Net Banking,No,3,September,9,2023,2023Q3,2,0
+10465,2023-06-27,2023-07-01,Standard,C116,Kavya Reddy,Central,Beauty,BB Cream,1,26.96,10,26.96,2.7,24.26,Debit Card,No,5,June,6,2023,2023Q2,4,0
+10466,2023-12-09,2023-12-12,Express,C102,Priya Patel,North,Electronics,Smart Bulb Set,4,150.29,0,601.16,0.0,601.16,UPI,No,4,December,12,2023,2023Q4,3,0
+10467,2023-11-09,2023-11-14,Same Day,C102,Priya Patel,South,Sports,Badminton Set,1,104.2,10,104.2,10.42,93.78,Debit Card,Yes,3,November,11,2023,2023Q4,5,1
+10468,2024-09-01,2024-09-06,Express,C115,Aditya Bose,East,Beauty,Eye Cream,1,27.14,10,27.14,2.71,24.43,Net Banking,No,2,September,9,2024,2024Q3,5,0
+10469,2024-02-13,2024-02-16,Express,C118,Shreya Malhotra,South,Clothing,Formal Shirt,4,60.34,0,241.36,0.0,241.36,UPI,No,5,February,2,2024,2024Q1,3,0
+10470,2024-09-22,2024-09-28,Standard,C118,Shreya Malhotra,East,Books,Visualization with Python,4,27.92,5,111.68,5.58,106.1,Net Banking,No,2,September,9,2024,2024Q3,6,0
+10471,2024-03-09,2024-03-12,Express,C114,Riya Desai,Central,Home & Kitchen,Hand Mixer,1,150.14,0,150.14,0.0,150.14,Credit Card,No,3,March,3,2024,2024Q1,3,0
+10472,2023-05-30,2023-06-03,Standard,C120,Tanvi Choudhary,East,Toys & Games,Action Figure,3,27.69,15,83.07,12.46,70.61,UPI,Yes,1,May,5,2023,2023Q2,4,1
+10473,2024-09-27,2024-09-29,Standard,C108,Divya Joshi,East,Toys & Games,Kite,1,78.96,0,78.96,0.0,78.96,Credit Card,No,3,September,9,2024,2024Q3,2,0
+10474,2023-08-05,2023-08-07,Same Day,C118,Shreya Malhotra,West,Home & Kitchen,Vacuum Cleaner,3,91.25,5,273.75,13.69,260.06,Cash on Delivery,No,3,August,8,2023,2023Q3,2,0
+10475,2024-11-10,2024-11-15,Standard,C119,Nikhil Shah,East,Sports,Dumbbell Set,1,87.98,10,87.98,8.8,79.18,UPI,Yes,1,November,11,2024,2024Q4,5,1
+10476,2023-03-10,2023-03-14,Standard,C101,Aarav Sharma,North,Toys & Games,Kite,1,61.35,15,61.35,9.2,52.15,Debit Card,No,3,March,3,2023,2023Q1,4,0
+10477,2024-12-27,2024-12-28,Same Day,C117,Rahul Pandey,Central,Toys & Games,Dart Board,2,63.71,10,127.42,12.74,114.68,Credit Card,No,4,December,12,2024,2024Q4,1,0
+10478,2023-02-10,2023-02-12,Express,C101,Aarav Sharma,West,Clothing,Yoga Pants,4,80.08,20,320.32,64.06,256.26,Net Banking,No,3,February,2,2023,2023Q1,2,0
+10479,2023-08-30,2023-09-04,Same Day,C110,Pooja Iyer,East,Sports,Dumbbell Set,3,16.93,10,50.79,5.08,45.71,Net Banking,No,1,August,8,2023,2023Q3,5,0
+10480,2023-12-16,2023-12-20,Same Day,C105,Vikram Nair,West,Toys & Games,LEGO Classic Set,3,85.81,5,257.43,12.87,244.56,Cash on Delivery,No,1,December,12,2023,2023Q4,4,0
+10481,2024-08-09,2024-08-11,Same Day,C108,Divya Joshi,East,Sports,Running Armband,2,106.63,10,213.26,21.33,191.93,Net Banking,No,3,August,8,2024,2024Q3,2,0
+10482,2023-05-22,2023-05-25,Standard,C107,Karan Verma,West,Beauty,Moisturizer Cream,2,26.37,20,52.74,10.55,42.19,UPI,No,5,May,5,2023,2023Q2,3,0
+10483,2024-07-24,2024-07-29,Standard,C103,Rohan Mehta,East,Sports,Knee Support,2,74.31,10,148.62,14.86,133.76,UPI,No,1,July,7,2024,2024Q3,5,0
+10484,2024-03-29,2024-04-04,Standard,C110,Pooja Iyer,South,Sports,Yoga Mat,4,95.37,10,381.48,38.15,343.33,Credit Card,No,3,March,3,2024,2024Q1,6,0
+10485,2024-08-03,2024-08-08,Standard,C120,Tanvi Choudhary,North,Clothing,Formal Shirt,5,23.14,5,115.7,5.79,109.91,Debit Card,No,2,August,8,2024,2024Q3,5,0
+10486,2024-04-25,2024-05-01,Express,C120,Tanvi Choudhary,West,Electronics,Smart Bulb Set,2,145.87,20,291.74,58.35,233.39,Net Banking,No,2,April,4,2024,2024Q2,6,0
+10487,2023-10-04,2023-10-08,Standard,C101,Aarav Sharma,North,Clothing,Formal Shirt,1,43.19,10,43.19,4.32,38.87,UPI,No,2,October,10,2023,2023Q4,4,0
+10488,2024-03-13,2024-03-17,Same Day,C108,Divya Joshi,West,Books,System Design Primer,3,44.68,15,134.04,20.11,113.93,Debit Card,No,5,March,3,2024,2024Q1,4,0
+10489,2024-10-18,2024-10-24,Standard,C117,Rahul Pandey,West,Books,R for Data Science,5,57.57,20,287.85,57.57,230.28,Net Banking,No,5,October,10,2024,2024Q4,6,0
+10490,2024-02-10,2024-02-16,Same Day,C118,Shreya Malhotra,North,Toys & Games,Dart Board,2,18.18,20,36.36,7.27,29.09,UPI,Yes,2,February,2,2024,2024Q1,6,1
+10491,2023-06-20,2023-06-24,Same Day,C115,Aditya Bose,Central,Home & Kitchen,Vacuum Cleaner,3,81.75,5,245.25,12.26,232.99,UPI,No,1,June,6,2023,2023Q2,4,0
+10492,2023-07-04,2023-07-11,Standard,C104,Sneha Gupta,West,Books,System Design Primer,1,45.84,20,45.84,9.17,36.67,Net Banking,No,5,July,7,2023,2023Q3,7,0
+10493,2023-04-03,2023-04-06,Same Day,C115,Aditya Bose,North,Home & Kitchen,Vacuum Cleaner,4,33.24,5,132.96,6.65,126.31,Credit Card,No,2,April,4,2023,2023Q2,3,0
+10494,2024-12-25,2024-12-29,Same Day,C117,Rahul Pandey,South,Electronics,Smart Bulb Set,3,94.66,0,283.98,0.0,283.98,Net Banking,No,5,December,12,2024,2024Q4,4,0
+10495,2024-11-06,2024-11-13,Standard,C119,Nikhil Shah,North,Beauty,Shaving Kit,2,17.41,10,34.82,3.48,31.34,Net Banking,No,2,November,11,2024,2024Q4,7,0
+10496,2023-05-01,2023-05-03,Same Day,C106,Ananya Singh,East,Home & Kitchen,Instant Pot,4,124.92,5,499.68,24.98,474.7,Credit Card,No,1,May,5,2023,2023Q2,2,0
+10497,2024-05-20,2024-05-22,Express,C120,Tanvi Choudhary,West,Books,Statistics for Data Science,5,54.22,0,271.1,0.0,271.1,Net Banking,No,4,May,5,2024,2024Q2,2,0
+10498,2024-09-26,2024-10-02,Standard,C109,Arjun Kumar,South,Electronics,External SSD,2,118.02,20,236.04,47.21,188.83,UPI,No,2,September,9,2024,2024Q3,6,0
+10499,2024-09-09,2024-09-12,Standard,C119,Nikhil Shah,North,Electronics,Ring Light,2,79.1,0,158.2,0.0,158.2,Net Banking,No,1,September,9,2024,2024Q3,3,0
+10500,2024-04-11,2024-04-17,Standard,C106,Ananya Singh,East,Clothing,Formal Shirt,5,100.65,20,503.25,100.65,402.6,Debit Card,No,1,April,4,2024,2024Q2,6,0
