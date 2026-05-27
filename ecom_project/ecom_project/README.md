@@ -87,17 +87,6 @@ Opens in Chrome, Firefox, or Edge. Works offline, no internet needed.
 | returned       | Yes or No                                      |
 | rating         | Customer rating 1–5                            |
 
----
-
-## 🔄 Want to Use the Real Kaggle Dataset?
-
-Visit one of these Kaggle datasets (free account needed):
-- https://www.kaggle.com/datasets/mervemenekse/ecommerce-dataset
-- https://www.kaggle.com/datasets/datascientist97/e-commerece-sales-data-2024
-- https://www.kaggle.com/datasets/carrie1/ecommerce-data  (UCI Online Retail)
-
-Download the CSV → rename it orders.csv → place it in the data/ folder.
-Then update the column names in scripts/01_analysis.py to match.
 
 ---
 
@@ -111,16 +100,6 @@ openpyxl
 
 Install with: python -m pip install pandas numpy openpyxl
 
----
-
-## 💡 Learning Challenges
-
-After exploring the project, try these yourself:
-1. Add a new KPI — e.g., "revenue per region per category"
-2. Filter the dataset to only 2024 orders and re-run the analysis
-3. Add a new chart to the dashboard (copy an existing one and change the data)
-4. Add a 6th Excel sheet showing shipping mode analysis
-5. Replace orders.csv with a real Kaggle dataset and adapt the column names
 
 ---
 
